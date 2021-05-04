@@ -1,0 +1,6 @@
+Name,Secondary,FileSpec,
+watch_geiger_nuke_activate,,,
+watch_geiger_nuke_pulse,,,
+watch_geiger_tick,,,
+watch_health_tick,,,
+watch_rank_up,,,

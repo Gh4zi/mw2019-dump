@@ -1,0 +1,5 @@
+	NO DVAR USAGE FOUND FOR lui_enable_frontend_seasonal_content in prefix: 
+
+// COMMON
+
+CONST_SEASONAL_PUBVAR     = lui_enable_frontend_seasonal_content [mp_frontend8 -> ../share/zone_source/common/common_frontend.csv -> rawfile,scripts/cp_mp/frontendutils.gsc]

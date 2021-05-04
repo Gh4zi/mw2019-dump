@@ -1,0 +1,8 @@
+0,iw8_lm_t9slowfire_variant_0,iw8_lm_t9slowfire,,,,,,,,,,,,,,,WEAPON_TANGO/LM_T9SLOWFIRE,ui_loot_weapon_lm_t9slowfire,,,,
+1,iw8_lm_t9slowfire_variant_1,iw8_lm_t9slowfire,,rec|1 front|1 back|1 mag|1,linearbrake|1,,laserbalanced|1,gripcust2|0,,smags|1,pistolgrip04|1,,,,,,WEAPON_TANGO/LM_T9SLOWFIRE_V2,ui_loot_weapon_lm_t9slowfire_v1,,,,
+2,iw8_lm_t9slowfire_variant_2,iw8_lm_t9slowfire,,rec|2 front|2 back|2 mag|2,silencer4|1,barcust3|1,lasermix|1,gripang|1,,,pistolgrip03|1,,,,,,WEAPON_TANGO/LM_T9SLOWFIRE_V3,ui_loot_weapon_lm_t9slowfire_v2,,,,
+3,iw8_lm_t9slowfire_variant_3,iw8_lm_t9slowfire,iw8_lm_t9slowfire_mpmtx,rec|3 front|3 back|3 mag|3,linearbrake|2,barcust|1,,,reflex2|1,xmagslrg|1,pistolgrip04|2,,,,,,WEAPON_VICTOR/LM_T9SLOWFIRE_V4,ui_loot_weapon_lm_t9slowfire_v3,,,goldDis,
+4,iw8_lm_t9slowfire_variant_4,iw8_lm_t9slowfire,iw8_lm_t9slowfire_mpdmb,rec|4 front|4 back|4 mag|4,linearbrake|3,barcust3|3,,gripvertpro|2,,smags2|1,,stockcust|1,,,,,WEAPON_VICTOR/LM_T9SLOWFIRE_V5,ui_loot_weapon_lm_t9slowfire_v4,,,cryoDis,
+5,iw8_lm_t9slowfire_variant_5,iw8_lm_t9slowfire,,rec|5 front|5 back|5 mag|5,comp|1,barmid|1,,gripvertpro|3,holo|3,,,,,,,,WEAPON_VICTOR/LM_T9SLOWFIRE_V6,ui_loot_weapon_lm_t9slowfire_v5,,,,
+6,iw8_lm_t9slowfire_variant_6,iw8_lm_t9slowfire,,rec|6 front|6 back|6 mag|6,linearbrake|4,barcust|2,,,,xmags|1,pistolgrip02|2,stockl|1,,,,,WEAPON_VICTOR/LM_T9SLOWFIRE_V7,ui_loot_weapon_lm_t9slowfire_v6,,,,
+7,iw8_lm_t9slowfire_variant_7,iw8_lm_t9slowfire,,rec|7 front|7 back|7 mag|7,comp|2,barcust3|4,laserrange|0,,reflexmini|1,,pistolgrip01|2,,,,,,WEAPON_XRAY/LM_T9SLOWFIRE_V8,ui_loot_weapon_lm_t9slowfire,,,,

@@ -1,0 +1,45 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            camo_t9cdl_atl
+LANG_ENGLISH         "Atlanta FaZe 2021"
+
+REFERENCE            camo_t9cdl_chi
+LANG_ENGLISH         "Optic Chicago 2021"
+
+REFERENCE            camo_t9cdl_dal
+LANG_ENGLISH         "Dallas Empire 2021"
+
+REFERENCE            camo_t9cdl_fl
+LANG_ENGLISH         "Florida Mutineers 2021"
+
+REFERENCE            camo_t9cdl_la_g
+LANG_ENGLISH         "LA Guerrillas 2021"
+
+REFERENCE            camo_t9cdl_la_o
+LANG_ENGLISH         "LA Thieves 2021"
+
+REFERENCE            camo_t9cdl_lon
+LANG_ENGLISH         "London Royal Ravens 2021"
+
+REFERENCE            camo_t9cdl_minn
+LANG_ENGLISH         "Minnesota R??kkr  2021"
+
+REFERENCE            camo_t9cdl_nyc
+LANG_ENGLISH         "New York Subliners 2021"
+
+REFERENCE            camo_t9cdl_par
+LANG_ENGLISH         "Paris Legion 2021"
+
+REFERENCE            camo_t9cdl_sea
+LANG_ENGLISH         "Seattle Surge 2021"
+
+REFERENCE            camo_t9cdl_tor
+LANG_ENGLISH         "Toronto ultra 2021"
+
+REFERENCE            category_t9cdl
+LANG_ENGLISH         "CDL 2021"
+
+
+ENDMARKER

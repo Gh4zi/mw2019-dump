@@ -1,0 +1,4 @@
+0,iw8_ar_t9slowhandling_variant_0,iw8_ar_t9slowhandling,,,,,,,,,,,,,,,WEAPON_VICTOR/AR_T9SLOWHANDLING,ui_loot_weapon_ar_t9slowhandling,,,
+1,iw8_ar_t9slowhandling_variant_1,iw8_ar_t9slowhandling,,rec|1 front|1 back|1 mag|1,,barcust|1,,gripvert|2,reflex2|1,xmagslrg|1,,stockcust|1,,,,,WEAPON_VICTOR/AR_T9SLOWHANDLING_V2,ui_loot_weapon_ar_t9slowhandling_v1,,,
+2,iw8_ar_t9slowhandling_variant_2,iw8_ar_t9slowhandling,iw8_ar_t9slowhandling_mpmtx,rec|2 front|2 back|2 mag|2,,barcust2|1,laserbalanced|2,gripvertpro|3,holo|1,xmags|1,,,,,,,WEAPON_WHISKEY/AR_T9SLOWHANDLING_V3,ui_loot_weapon_ar_t9slowhandling_v2,,purpleGreen,
+3,iw8_ar_t9slowhandling_variant_3,iw8_ar_t9slowhandling,,rec|3 front|3 back|3 mag|3,linearbrake|1,barlong|1,,gripvertpro|4,,xmags|2,,stockl|1,,,,,WEAPON_XRAY/AR_T9SLOWHANDLING_V4,ui_loot_weapon_ar_t9slowhandling_v3,,,

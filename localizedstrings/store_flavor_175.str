@@ -1,0 +1,357 @@
+VERSION				"1"
+CONFIG				"C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES		    "Dumped via ModernWarfareLeaker by JariK"
+
+REFERENCE            parts_wristwear_mp_watch_t9bracelet_mardi_flavor
+LANG_ENGLISH         "!????????????????????? ?????? ??????????????? ??????????????? - ????????????????? ???????????? ???????????????? ???"
+
+REFERENCE            parts_wristwear_mp_watch_t9esportsempire_ms_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            parts_wristwear_mp_watch_t9esportsempire_pc_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            parts_wristwear_mp_watch_t9esportsempire_sy_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            parts_wristwear_mp_watch_t9esportsfaze_ms_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            parts_wristwear_mp_watch_t9esportsfaze_pc_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            parts_wristwear_mp_watch_t9esportsfaze_sy_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            parts_wristwear_mp_watch_t9esportsguerillas_ms_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            parts_wristwear_mp_watch_t9esportsguerillas_pc_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            parts_wristwear_mp_watch_t9esportsguerillas_sy_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            parts_wristwear_mp_watch_t9esportslegion_ms_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            parts_wristwear_mp_watch_t9esportslegion_pc_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            parts_wristwear_mp_watch_t9esportslegion_sy_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            parts_wristwear_mp_watch_t9esportsmutineers_ms_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            parts_wristwear_mp_watch_t9esportsmutineers_pc_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            parts_wristwear_mp_watch_t9esportsmutineers_sy_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            parts_wristwear_mp_watch_t9esportsoptic_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            parts_wristwear_mp_watch_t9esportsoptic_ms_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            parts_wristwear_mp_watch_t9esportsoptic_pc_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            parts_wristwear_mp_watch_t9esportsoptic_sy_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            parts_wristwear_mp_watch_t9esportsrokkr_ms_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            parts_wristwear_mp_watch_t9esportsrokkr_pc_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            parts_wristwear_mp_watch_t9esportsrokkr_sy_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            parts_wristwear_mp_watch_t9esportsroyalravens_ms_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            parts_wristwear_mp_watch_t9esportsroyalravens_pc_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            parts_wristwear_mp_watch_t9esportsroyalravens_sy_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            parts_wristwear_mp_watch_t9esportssubliners_ms_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            parts_wristwear_mp_watch_t9esportssubliners_pc_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            parts_wristwear_mp_watch_t9esportssubliners_sy_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            parts_wristwear_mp_watch_t9esportssurge_ms_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            parts_wristwear_mp_watch_t9esportssurge_pc_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            parts_wristwear_mp_watch_t9esportssurge_sy_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            parts_wristwear_mp_watch_t9esportsthieves_ms_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            parts_wristwear_mp_watch_t9esportsthieves_pc_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            parts_wristwear_mp_watch_t9esportsthieves_sy_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            parts_wristwear_mp_watch_t9esportsultra_ms_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            parts_wristwear_mp_watch_t9esportsultra_pc_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            parts_wristwear_mp_watch_t9esportsultra_sy_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            sticker_t9198_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            sticker_t9225_ms_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            sticker_t9225_pc_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            sticker_t9225_sy_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            sticker_t9226_ms_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            sticker_t9226_pc_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            sticker_t9226_sy_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            sticker_t9227_ms_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            sticker_t9227_pc_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            sticker_t9227_sy_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            sticker_t9228_ms_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            sticker_t9228_pc_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            sticker_t9228_sy_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            sticker_t9229_ms_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            sticker_t9229_pc_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            sticker_t9229_sy_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            sticker_t9230_ms_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            sticker_t9230_pc_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            sticker_t9230_sy_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            sticker_t9231_ms_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            sticker_t9231_pc_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            sticker_t9231_ps_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            sticker_t9231_sy_flavor
+LANG_ENGLISH         ""
+
+REFERENCE            sticker_t9232_ms_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            sticker_t9232_pc_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            sticker_t9232_sy_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            sticker_t9233_ms_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            sticker_t9233_pc_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            sticker_t9233_sy_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            sticker_t9234_ms_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            sticker_t9234_pc_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            sticker_t9234_sy_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            sticker_t9235_ms_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            sticker_t9235_pc_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            sticker_t9235_sy_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            sticker_t9236_ms_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            sticker_t9236_pc_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            sticker_t9236_sy_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            t9_charm_bskull_flavor
+LANG_ENGLISH         ".???????????????????????? ????????????????????? ??????????????? ?????? ??????????????????????????? ???????????? ????????? ????????????"
+
+REFERENCE            t9_charm_bwidow_heart_flavor
+LANG_ENGLISH         ".??????????????? ???????????? ???????????? ?????????????? ?????? ???????????? ??????????????? ???????????????"
+
+REFERENCE            t9_charm_jester_mask_flavor
+LANG_ENGLISH         ".??????????????????????????? ?????????????????? ??????????????? ?????? ??????????????? ????????? ?????????????????? ??????????????? ?????????"
+
+REFERENCE            t9_charm_miami_flavor
+LANG_ENGLISH         ".?????????????????? ?????? ???????????? ????????????????????? ????????? ???????????????"
+
+REFERENCE            t9_charm_red_envelope_flavor
+LANG_ENGLISH         ".??????????????? ??????????????? ??????????????? ?????? ??????????????? ??????????????? ???????????"
+
+REFERENCE            t9_charm_sneaker_empire_ms_flavor
+LANG_ENGLISH         "  "
+
+REFERENCE            t9_charm_sneaker_empire_pc_flavor
+LANG_ENGLISH         "  "
+
+REFERENCE            t9_charm_sneaker_empire_sy_flavor
+LANG_ENGLISH         "  "
+
+REFERENCE            t9_charm_sneaker_faze_ms_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            t9_charm_sneaker_faze_pc_flavor
+LANG_ENGLISH         "  "
+
+REFERENCE            t9_charm_sneaker_faze_sy_flavor
+LANG_ENGLISH         "  "
+
+REFERENCE            t9_charm_sneaker_guerillas_ms_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            t9_charm_sneaker_guerillas_pc_flavor
+LANG_ENGLISH         "  "
+
+REFERENCE            t9_charm_sneaker_guerillas_sy_flavor
+LANG_ENGLISH         "  "
+
+REFERENCE            t9_charm_sneaker_legion_ms_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            t9_charm_sneaker_legion_pc_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            t9_charm_sneaker_legion_sy_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            t9_charm_sneaker_mutineers_ms_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            t9_charm_sneaker_mutineers_pc_flavor
+LANG_ENGLISH         "  "
+
+REFERENCE            t9_charm_sneaker_mutineers_sy_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            t9_charm_sneaker_opticgaming_ms_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            t9_charm_sneaker_opticgaming_pc_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            t9_charm_sneaker_opticgaming_sy_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            t9_charm_sneaker_rokkr_ms_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            t9_charm_sneaker_rokkr_pc_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            t9_charm_sneaker_rokkr_sy_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            t9_charm_sneaker_royalravens_ms_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            t9_charm_sneaker_royalravens_pc_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            t9_charm_sneaker_royalravens_sy_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            t9_charm_sneaker_subliners_ms_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            t9_charm_sneaker_subliners_pc_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            t9_charm_sneaker_subliners_sy_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            t9_charm_sneaker_surge_ms_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            t9_charm_sneaker_surge_pc_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            t9_charm_sneaker_surge_sy_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            t9_charm_sneaker_thieves_ms_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            t9_charm_sneaker_thieves_pc_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            t9_charm_sneaker_thieves_sy_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            t9_charm_sneaker_ultra_ms_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            t9_charm_sneaker_ultra_pc_flavor
+LANG_ENGLISH         " "
+
+REFERENCE            t9_charm_sneaker_ultra_sy_flavor
+LANG_ENGLISH         " "
+
+
+ENDMARKER

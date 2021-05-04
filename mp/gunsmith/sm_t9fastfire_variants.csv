@@ -1,0 +1,7 @@
+0,iw8_sm_t9fastfire_variant_0,iw8_sm_t9fastfire,,,,,,,,,,,,,,,WEAPON_TANGO/SM_T9FASTFIRE,ui_loot_weapon_sm_t9fastfire,
+1,iw8_sm_t9fastfire_variant_1,iw8_sm_t9fastfire,iw8_sm_t9fastfire_mpv2,rec|1 front|1 back|1 mag|1,,,,gripang|1,reflex|1,xmagslrg|1,pistolgrip02|1,stocks|1,,,,,WEAPON_TANGO/SM_T9FASTFIRE_V2,ui_loot_weapon_sm_t9fastfire_v1,
+2,iw8_sm_t9fastfire_variant_2,iw8_sm_t9fastfire,iw8_sm_t9fastfire_mpv2,rec|1 front|1 back|1 mag|1,,,,gripang|1,reflex|1,xmagslrg|1,pistolgrip02|1,stocks|1,,,,,WEAPON_TANGO/SM_T9FASTFIRE_V2,ui_loot_weapon_sm_t9fastfire_v2,
+3,iw8_sm_t9fastfire_variant_3,iw8_sm_t9fastfire,,rec|2 front|2 back|2 mag|2,silencer2|1,,laserads|1,gripcust|1,reflex2|1,,pistolgrip05|0,,,,,,WEAPON_175/SM_T9FASTFIRE_V3,ui_loot_weapon_sm_t9fastfire_v3,
+4,iw8_sm_t9fastfire_variant_4,iw8_sm_t9fastfire,,rec|3 front|3 back|3 mag|3,silencer2|2,,laser|0,gripcust|0,,fastmags2|0,pistolgrip04|1,,,,,,WEAPON_VICTOR/SM_T9FASTFIRE_V4,ui_loot_weapon_sm_t9fastfire_v4,
+5,iw8_sm_t9fastfire_variant_5,iw8_sm_t9fastfire,,rec|4 front|4 back|4 mag|4,comp|1,,laserrange|2,,,smags2|1,pistolgrip05|1,stocks|2,,,,,WEAPON_WHISKEY/SM_T9FASTFIRE_V5,ui_loot_weapon_sm_t9fastfire_v5,
+6,iw8_sm_t9fastfire_variant_6,iw8_sm_t9fastfire,,rec|5 front|5 back|5 mag|5,silencer|1,,,gripvertpro|1,reflexmini3|1,xmagslrg|2,,,,,,,WEAPON_XRAY/SM_T9FASTFIRE_V6,ui_loot_weapon_sm_t9fastfire,

@@ -1,0 +1,4 @@
+*Ref,#Category Name,#Description,#Disabled Text,#Background,#ThemeColorSwatch,#Korea Disable,
+1,LUA_MENU/WZ_EVENT_PLAYLIST_CH2_MP_NAME,LUA_MENU/WZ_EVENT_PLAYLIST_CH2_MP_DESC,LUA_MENU/WZ_EVENT_PLAYLIST_DISABLED,ui_mp_br_button_image_seasonal_victor_mp,CH2.CH2_Highlight,0,
+2,LUA_MENU/WZ_EVENT_PLAYLIST_CH2_ZM_NAME,LUA_MENU/WZ_EVENT_PLAYLIST_CH2_ZM_DESC,LUA_MENU/WZ_EVENT_PLAYLIST_DISABLED,ui_mp_br_button_image_seasonal_victor_zm,CH2.CH2_Highlight,1,
+3,LUA_MENU/WZ_EVENT_PLAYLIST_CH2_OUTBREAK_NAME,LUA_MENU/WZ_EVENT_PLAYLIST_CH2_OUTBREAK_DESC,LUA_MENU/WZ_EVENT_PLAYLIST_DISABLED,ui_mp_br_button_image_seasonal_victor_outbreak,CH2.CH2_EventColorRed,1,

@@ -1,0 +1,6372 @@
+{
+66852 "1"
+2703 "6 0 22 22"
+2498 "_e0"
+72 "0.0"
+212 "worldspawn"
+13774 "1"
+13775 "512"
+13776 "1"
+20376 "1"
+453 "1"
+25224 "1"
+25872 "1"
+32059 "0"
+692 "90"
+39993 "1"
+39994 "0.5"
+41035 "3"
+967 "0.82 0.89 0.94"
+968 "-45 0 0"
+50163 "0"
+969 "0"
+54237 "0"
+}
+{
+80 "0 225 0"
+212 "info_player_start"
+709 "-6720 -10432 88"
+}
+{
+212 "script_origin"
+20186 "default"
+709 "-2816 -6080 592"
+1072 "minimap_corner"
+}
+{
+212 "script_origin"
+20186 "default"
+709 "-2880 -6016 128"
+1072 "minimap_corner"
+}
+{
+212 "script_origin"
+20186 "default"
+709 "-5632 -5216 688"
+1072 "airstrikeheight"
+}
+{
+80 "1.54062 270.06 2.22477"
+212 "script_origin"
+20186 "default"
+652 "static_mp_eastern_syd_pose_a"
+709 "-11044 -9322 11.9035"
+43887 "mp_lobby_floor_02"
+845 "lurk"
+1072 "lobby_teaser"
+}
+{
+80 "1.06722e-07 211.956 3.81402"
+212 "script_origin"
+20186 "default"
+652 "static_mp_eastern_syd_pose_a"
+709 "-11128 -8030 1.56828"
+43887 "mp_lobby_floor_01"
+845 "lean"
+1072 "lobby_teaser"
+}
+{
+212 "script_origin"
+20186 "default"
+709 "-11334 -8334 0"
+1072 "charroom_char_lobby"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "-11350 -8250 0"
+1072 "tourroom_charslot_left_05"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "-11382 -8226 0"
+1072 "tourroom_charslot_left_06"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "-11234 -8250 0"
+1072 "tourroom_charslot_right_05"
+}
+{
+80 "0 85 0"
+212 "script_origin"
+20186 "default"
+709 "-11342 -8590 48"
+1072 "char_lobby"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "-11202 -8234 0"
+1072 "tourroom_charslot_right_06"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "mp_fullbody_execution_dog_malinois"
+709 "-11290 -8354 0"
+1072 "lobby_charslot_01_dog"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "mp_fullbody_execution_dog_malinois"
+709 "-11366 -8322 0"
+1072 "lobby_charslot_03_dog"
+}
+{
+80 "1.99998 79.9999 -2.9796e-08"
+212 "script_origin"
+20186 "default"
+709 "-11336 -8470 58"
+1072 "char_lobby_detail"
+}
+{
+212 "script_origin"
+20186 "default"
+709 "-11334 -8334 0"
+1072 "charroom_fx_lobby"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "mp_fullbody_execution_dog_malinois"
+709 "-11242 -8338 0"
+1072 "lobby_charslot_02_dog"
+}
+{
+80 "0 85 0"
+212 "script_struct"
+20186 "default"
+709 "-11330 -8590 8"
+845 "28"
+1072 "dev_warp_loc"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "mp_fullbody_execution_dog_malinois"
+709 "-11202 -8318 0"
+1072 "lobby_charslot_04_dog"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "-11330 -8274 0"
+1072 "lobby_charslot_08"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "static_mp_eastern_syd_pose_a"
+709 "-11342 -8336 0"
+1072 "lobby_charslot_03"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "-11290 -8298 0"
+1072 "lobby_charslot_05"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "mp_fullbody_execution_dog_malinois"
+709 "-11354 -8358 0"
+1072 "tourroom_charslot_left_01_dog"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "-11224 -8272 0"
+1072 "lobby_charslot_06"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "static_mp_eastern_syd_pose_a"
+709 "-11314 -8370 0"
+1072 "lobby_charslot_01"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "-11258 -8194 0"
+1072 "lobby_charslot_11"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "static_mp_eastern_syd_pose_a"
+709 "-11266 -8344 0"
+1072 "lobby_charslot_02"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "mp_fullbody_execution_dog_malinois"
+709 "-11398 -8350 0"
+1072 "tourroom_charslot_left_02_dog"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "static_mp_eastern_syd_pose_a"
+709 "-11224 -8314 0"
+1072 "lobby_charslot_04"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "-11256 -8242 0"
+1072 "lobby_charslot_07"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "-11314 -8220 0"
+1072 "lobby_charslot_10"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "-11360 -8230 0"
+1072 "lobby_charslot_09"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "-11228 -8172 0"
+1072 "lobby_charslot_12"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "mp_fullbody_execution_dog_malinois"
+709 "-11250 -8358 0"
+1072 "tourroom_charslot_right_01_dog"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "-11396 -8294 0"
+1072 "tourroom_charslot_left_04"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "static_mp_eastern_syd_pose_a"
+709 "-11374 -8342 0"
+1072 "tourroom_charslot_left_02"
+}
+{
+80 "0 85 0"
+212 "script_origin"
+20186 "default"
+709 "-11330 -8590 48"
+1072 "char_tournament_overcam"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "-11358 -8302 0"
+1072 "tourroom_charslot_left_03"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "mp_fullbody_execution_dog_malinois"
+709 "-11206 -8350 0"
+1072 "tourroom_charslot_right_02_dog"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "static_mp_eastern_syd_pose_a"
+709 "-11334 -8350 0"
+1072 "tourroom_charslot_left_01"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "static_mp_eastern_syd_pose_a"
+709 "-11270 -8350 0"
+1072 "tourroom_charslot_right_01"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "-11198 -8294 0"
+1072 "tourroom_charslot_right_04"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "static_mp_eastern_syd_pose_a"
+709 "-11230 -8342 0"
+1072 "tourroom_charslot_right_02"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "refobj_soldier_allied_walk_b"
+709 "-11238 -8302 0"
+1072 "tourroom_charslot_right_03"
+}
+{
+80 "0 345 0"
+212 "script_model"
+20186 "default"
+652 "equipment_military_generator_01_frontend"
+709 "-11464.5 -6828.25 0"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_brushmodel"
+20186 "default"
+652 "*1"
+709 "-17319 -4753 0"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "decor_barrels_01_blue"
+709 "-11860 -6332 136"
+1072 "floor_01_clutter"
+}
+{
+80 "270 0 -0.000101423"
+212 "script_model"
+20186 "default"
+652 "decor_barrels_01_blue"
+709 "-11031.5 -10579.8 14.5"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+31561 "32"
+601 "1"
+652 "ch_crate64X64_simple_frontend"
+709 "-11039 -7082.5 -64"
+1072 "floor_01_clutter"
+}
+{
+80 "0 315 0"
+212 "script_model"
+20186 "default"
+652 "un_industrial_wooden_pallet_01_frontend"
+709 "-11462.5 -6928.25 1.90735e-06"
+1072 "floor_01_clutter"
+}
+{
+80 "0 29.9998 0"
+212 "script_model"
+20186 "default"
+652 "un_industrial_wooden_pallet_01_frontend"
+709 "-11524.5 -6392.25 0"
+1072 "floor_01_clutter"
+}
+{
+80 "0 29.9998 0"
+212 "script_model"
+20186 "default"
+652 "un_industrial_wooden_pallet_01_frontend"
+709 "-11098.5 -8144.25 1.90735e-06"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 69.9993"
+212 "script_model"
+20186 "default"
+652 "un_industrial_wooden_pallet_01_frontend"
+709 "-11482.5 -8998.75 26"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11361.8 -9055.5 272"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "un_metal_steel_support_h_beam_16x16x128_gray_frontend"
+709 "-11828.8 -10169.8 251.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "un_metal_steel_support_h_beam_16x16x128_gray_frontend"
+709 "-11480.8 -10169.8 251.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "270 0 -0.000101423"
+212 "script_model"
+20186 "default"
+652 "decor_barrels_01_blue"
+709 "-11049.8 -10550 14.5"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-12296.5 -10304 271.75"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 61.9993 0"
+212 "script_model"
+20186 "default"
+652 "boat_life_saver_01_frontend"
+709 "-11438.5 -10006.3 0"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_brushmodel"
+20186 "default"
+652 "*2"
+709 "-17319 -4753 0"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_32_corner_in_frontend"
+709 "-11459.8 -9500.25 272"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "270 0 -0.000101423"
+212 "script_model"
+20186 "default"
+652 "decor_barrels_01_blue"
+709 "-11038.8 -10565 38.75"
+1072 "floor_02_clutter"
+}
+{
+80 "331.999 90 -90"
+212 "script_model"
+20186 "default"
+652 "boat_life_saver_01_frontend"
+709 "-10999.8 -6541.75 29.5"
+1072 "floor_01_clutter"
+}
+{
+80 "0 262.1 0"
+212 "script_model"
+20186 "default"
+652 "ch_crate64X64_simple_frontend"
+709 "-11497.3 -8361.25 0"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_brushmodel"
+20186 "default"
+652 "*3"
+709 "-17319 -4753 0"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_32_corner_out_frontend"
+709 "-11425.5 -6083.25 136"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 262.1 0"
+212 "script_model"
+20186 "default"
+652 "ch_crate64X64_simple_frontend"
+709 "-11514.5 -6165.25 135.75"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11492.3 -6083.25 136"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_32_frontend"
+709 "-11425.5 -6137.25 136"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_32_corner_out_frontend"
+709 "-11425.5 -6192.5 136"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "un_metal_steel_support_h_beam_16x16x128_gray_frontend"
+709 "-12008.8 -10169.8 251.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "un_metal_steel_support_h_beam_16x16x128_gray_frontend"
+709 "-12166.8 -10169.8 251.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11012 -8666.75 208"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_32_frontend"
+709 "-11012 -8787.75 208"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11012 -8734.25 208"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_32_frontend"
+709 "-11012 -8613.25 208"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "un_metal_steel_support_h_beam_16x16x128_gray_frontend"
+709 "-11652.3 -9472.75 115.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "un_metal_steel_support_h_beam_16x16x128_gray_frontend"
+709 "-11652.3 -9082.75 115.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "un_metal_steel_support_h_beam_16x16x128_gray_frontend"
+709 "-11652.3 -9220.75 115.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 352.1 0"
+212 "script_model"
+20186 "default"
+652 "ch_crate64X64_simple_frontend"
+709 "-11647.5 -10253.5 0"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "un_metal_steel_support_h_beam_16x16x128_gray_frontend"
+709 "-11498.3 -8922.75 187.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_32_frontend"
+709 "-11364 -8910.75 208"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11129.8 -8830 208"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11260.8 -8830 208"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "un_metal_steel_support_h_beam_16x16x128_gray_frontend"
+709 "-11524.3 -9082.75 251.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11195.3 -8830 208"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "331.999 270 -90"
+212 "script_model"
+20186 "default"
+652 "boat_life_saver_01_frontend"
+709 "-11461 -9975.25 46"
+1072 "floor_02_clutter"
+}
+{
+80 "331.999 270 -90"
+212 "script_model"
+20186 "default"
+652 "boat_life_saver_01_frontend"
+709 "-11461 -9846.75 46"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11326.3 -8830 208"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "bathroom_drain_01_frontend"
+709 "-11044 -10236 0.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_32_corner_out_frontend"
+709 "-11363.5 -8468.5 208"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "bathroom_drain_01_frontend"
+709 "-11044 -8930 0.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11361.8 -10035.3 271.75"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11361.8 -9701 271.75"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11129.3 -8573.5 208"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11428.3 -8469 208"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_32_corner_out_frontend"
+709 "-11361.8 -10304 272"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "bathroom_drain_01_frontend"
+709 "-11044 -8468 0.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11561.5 -10304 271.75"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11364 -8535.75 208"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11326.8 -8573.5 208"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 26.238 0"
+212 "script_model"
+20186 "default"
+652 "pipe_set_pmars_merged_05_a_frontend"
+709 "-11450.3 -8527.25 -0.25"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11063.8 -8573.5 208"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11194.8 -8573.5 208"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "bathroom_drain_01_frontend"
+709 "-11044 -9028 0.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "bathroom_drain_01_frontend"
+709 "-11044 -9562 0.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_32_corner_out_frontend"
+709 "-11361.8 -9500 272"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11364 -8862.25 208"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11460.3 -9279 271.75"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "bathroom_drain_01_frontend"
+709 "-11044 -10702 0.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11361.8 -9835.5 271.75"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "bathroom_drain_01_frontend"
+709 "-11044 -9696 0.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "bathroom_drain_01_frontend"
+709 "-11044 -10162 0.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_32_corner_out_frontend"
+709 "-11719 -10207 749.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 26.2379 0"
+212 "script_model"
+20186 "default"
+652 "pipe_set_pmars_merged_05_a_frontend"
+709 "-11450 -10130.3 0"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11361.8 -9901.25 271.75"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "furniture_fire_extinguisher_hose_box_frontend"
+709 "-11460.3 -10162.8 58.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11361.8 -9768 271.75"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_signs_industrial_extinguisher_frontend"
+709 "-11460 -10162.5 102"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "un_metal_steel_support_h_beam_16x16x128_gray_frontend"
+709 "-11496.3 -9652.75 251.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11260.3 -8573.5 208"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "fac_vent_single_dirty_frontend"
+709 "-11463 -9717.5 0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11629 -10304 271.75"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 352.1 0"
+212 "script_model"
+20186 "default"
+652 "ch_crate64X64_simple_frontend"
+709 "-11476.8 -9587 0"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11426.5 -10304 271.75"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11494 -10304 271.75"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11361.8 -10170.3 271.75"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "un_metal_steel_support_h_beam_16x16x128_gray_frontend"
+709 "-11498.3 -8494.75 187.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11361.8 -10237.8 271.75"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11361.8 -10102.8 271.75"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "un_metal_steel_support_h_beam_16x16x128_gray_frontend"
+709 "-11498.3 -8562.75 187.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11361.8 -9968.25 271.75"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "furniture_fire_extinguisher_hose_box_frontend"
+709 "-11460.5 -8559.75 58.25"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11063.3 -8830 208"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_32_frontend"
+709 "-11361.8 -9007 272"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_32_frontend"
+709 "-11460.3 -9452 271.75"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11361.8 -9564.75 271.75"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_32_frontend"
+709 "-11411.3 -9120 272"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_32_corner_in_frontend"
+709 "-11460.8 -9120.25 272"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11460.3 -9092 136"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11460.3 -9023.25 136"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11460.3 -9226.5 136"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11460.3 -9159.5 136"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11460.3 -9294 136"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11460.3 -9426.75 136"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11460.3 -9359.75 136"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11460.3 -9561.25 136"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11460.3 -9493.75 136"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_signs_industrial_extinguisher_frontend"
+709 "-11460.3 -8559.5 97.25"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11361.8 -9633.5 271.75"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11460.3 -9404.5 271.75"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "un_metal_steel_support_h_beam_16x16x128_gray_frontend"
+709 "-11652.3 -9082.75 251.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "un_metal_steel_support_h_beam_16x16x128_gray_frontend"
+709 "-11496.3 -9828.75 251.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_32_corner_out_frontend"
+709 "-11361.8 -9120 272"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11460.3 -9341.5 271.75"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "un_metal_steel_support_h_beam_16x16x128_gray_frontend"
+709 "-11660.8 -10169.8 251.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_32_frontend"
+709 "-11460.3 -9612.25 136"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_32_frontend"
+709 "-11460.3 -9168 271.75"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11460.3 -9215.5 271.75"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_32_frontend"
+709 "-11410.8 -9500 272"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "fac_vent_single_dirty_frontend"
+709 "-11462 -8896.75 0.25"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "un_metal_steel_support_h_beam_16x16x128_gray_frontend"
+709 "-11496.3 -10020.8 251.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "un_metal_steel_support_h_beam_16x16x128_gray_frontend"
+709 "-11496.3 -10200.8 251.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11789 -10207 749.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11858.5 -10207 749.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "un_metal_steel_support_h_beam_16x16x128_gray_frontend"
+709 "-11498.3 -8854.75 187.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "331.999 180 -90"
+212 "script_model"
+20186 "default"
+652 "boat_life_saver_01_frontend"
+709 "-11502.8 -10205.5 46"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11831.3 -10304 271.75"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11898.8 -10304 271.75"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11696.3 -10304 271.75"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11763.8 -10304 271.75"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-12099.5 -10304 271.75"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-12167 -10304 271.75"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11964.5 -10304 271.75"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-12032 -10304 271.75"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_32_corner_out_frontend"
+709 "-12459.5 -10303.8 272"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_32_frontend"
+709 "-12411.3 -10304 271.75"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_brushmodel"
+20186 "default"
+652 "*4"
+709 "-17319 -4753 0"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "un_metal_steel_support_h_beam_16x16x128_gray_frontend"
+709 "-12342.8 -10169.8 251.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11927 -10207 749.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11995.5 -10207 749.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_32_frontend"
+709 "-12047 -10207 749.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_32_corner_out_frontend"
+709 "-12098 -10207 749.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*5"
+709 "-11300 -7238 0"
+1072 "mp_lobby_floor_01"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "ground_wires_01_multicolored_frontend"
+709 "-11478.8 -8319.75 0"
+1072 "floor_01_clutter"
+}
+{
+80 "0 352.1 0"
+212 "script_model"
+20186 "default"
+652 "ch_crate64X64_simple_frontend"
+709 "-11054.8 -8735 0"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "construction_metal_clamp_hook_frontend"
+709 "-11362.8 -8582 484.25"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "fac_vent_single_dirty_frontend"
+34215 "1"
+709 "-11766.8 -10206 597.25"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "fac_vent_single_dirty_frontend"
+34215 "1"
+709 "-11874.8 -10206 597.25"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-12361.5 -10304 271.75"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "fac_vent_single_dirty_frontend"
+34215 "1"
+709 "-11987.8 -10206 597.25"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 229.646 0"
+212 "script_model"
+20186 "default"
+652 "equipment_antenna_set_01_short_frontend"
+709 "-11830 -10107.8 747.75"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "mp_frontend8_boat"
+709 "-11208 -8820 268"
+41154 "1"
+845 "anim_boats"
+1072 "floor_02_clutter"
+}
+{
+80 "0 89.33 0"
+212 "script_model"
+20186 "default"
+652 "ee_buildings_industrial_radiotower_01_satellite_dish_big_fe"
+709 "-11798.7 -9814.98 1068"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "lm_don_helipad_02_base_support_frontend"
+34215 "1"
+709 "-11809.7 -9825.98 934"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 -180"
+212 "script_model"
+20186 "default"
+32390 "1.5"
+652 "ee_light_mounted_exterior_industrial_caged_02_on_warm_fe"
+709 "-11460 -10109.3 451.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "fac_vent_single_dirty_frontend"
+34215 "1"
+709 "-11766.8 -8990 597.25"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "fac_vent_single_dirty_frontend"
+34215 "1"
+709 "-11874.8 -8990 597.25"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "fac_vent_single_dirty_frontend"
+34215 "1"
+709 "-11987.8 -8990 597.25"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "fac_vent_single_dirty_frontend"
+34215 "1"
+709 "-12094 -8990 597.25"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 229.646 0"
+212 "script_model"
+20186 "default"
+652 "equipment_antenna_set_01_short_frontend"
+709 "-11830 -8891.75 747.75"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "fac_vent_single_dirty_frontend"
+34215 "1"
+709 "-12094 -10206 597.25"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "construction_metal_clamp_hook_frontend"
+709 "-11362.8 -8822 484.25"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 -180"
+212 "script_model"
+20186 "default"
+32390 "1.5"
+652 "ee_light_mounted_exterior_industrial_caged_02_on_warm_fe"
+709 "-11649.3 -10206 451"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 -180"
+212 "script_model"
+20186 "default"
+32390 "1.5"
+652 "ee_light_mounted_exterior_industrial_caged_02_on_warm_fe"
+709 "-11776.3 -10206 451"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 -180"
+212 "script_model"
+20186 "default"
+32390 "1.5"
+652 "ee_light_mounted_exterior_industrial_caged_02_on_warm_fe"
+709 "-11907.3 -10206 451"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 -180"
+212 "script_model"
+20186 "default"
+32390 "1.5"
+652 "ee_light_mounted_exterior_industrial_caged_02_on_warm_fe"
+709 "-12034.3 -10206 451"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 -180"
+212 "script_model"
+20186 "default"
+32390 "1.5"
+652 "ee_light_mounted_exterior_industrial_caged_02_on_warm_fe"
+709 "-12160.3 -10206 451"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 -180"
+212 "script_model"
+20186 "default"
+32390 "1.5"
+652 "ee_light_mounted_exterior_industrial_caged_02_on_warm_fe"
+709 "-11460 -9848.25 451.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 -180"
+212 "script_model"
+20186 "default"
+32390 "1.5"
+652 "ee_light_mounted_exterior_industrial_caged_02_on_warm_fe"
+709 "-11460 -10109.3 150"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 -180"
+212 "script_model"
+20186 "default"
+32390 "1.5"
+652 "ee_light_mounted_exterior_industrial_caged_02_on_warm_fe"
+709 "-11460 -9848.25 150"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 -180"
+212 "script_model"
+20186 "default"
+32390 "1.5"
+652 "ee_light_mounted_exterior_industrial_caged_02_on_warm_fe"
+709 "-11460 -8753.25 150"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 -180"
+212 "script_model"
+20186 "default"
+32390 "1.5"
+652 "ee_light_mounted_exterior_industrial_caged_02_on_warm_fe"
+709 "-11460 -8492.25 150"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "270 0 -180"
+212 "script_model"
+20186 "default"
+652 "ee_pipe_05_joint_coupling_01_frontend"
+709 "-11021.8 -9329 2"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "90 324.462 54.4623"
+212 "script_model"
+20186 "default"
+652 "ee_pipe_05_32_frontend"
+709 "-11021.8 -9329 13"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "ee_pipe_05_valve_01_frontend"
+709 "-11021.8 -9309 24"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "270 0 -90"
+212 "script_model"
+20186 "default"
+652 "ee_pipe_05_joint_coupling_01_frontend"
+709 "-11021.8 -9240.5 2"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 262.1 0"
+212 "script_model"
+20186 "default"
+652 "ch_crate64X64_simple_frontend"
+709 "-11327 -8733.25 206"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "ee_pipe_05_elbow_01_frontend"
+709 "-11021.8 -9318 13"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "270 0 89.9999"
+212 "script_model"
+20186 "default"
+652 "ee_pipe_05_joint_coupling_01_frontend"
+709 "-11021.8 -9291.5 2"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "ee_pipe_05_merged_01_frontend"
+709 "-11021.8 -9142 0"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 -180"
+212 "script_model"
+20186 "default"
+32390 "1.5"
+652 "ee_light_mounted_exterior_industrial_caged_02_on_warm_fe"
+709 "-11460 -8953.25 380"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 262.1 0"
+212 "script_model"
+20186 "default"
+652 "ch_crate64X64_simple_frontend"
+709 "-11551 -9077.25 0"
+1072 "floor_02_clutter"
+}
+{
+80 "331.999 90 -90"
+212 "script_model"
+20186 "default"
+652 "boat_life_saver_01_frontend"
+709 "-10999.8 -10114 29.5"
+1072 "floor_02_clutter"
+}
+{
+80 "331.999 90 -90"
+212 "script_model"
+20186 "default"
+652 "boat_life_saver_01_frontend"
+709 "-10999.8 -10067.8 29.5"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "decor_rope_thick_coiled_01_frontend"
+709 "-11109.5 -9564 0"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "331.999 90 -90"
+212 "script_model"
+20186 "default"
+652 "boat_life_saver_01_frontend"
+709 "-10999.8 -10020.5 29.5"
+1072 "floor_02_clutter"
+}
+{
+80 "331.999 90 -90"
+212 "script_model"
+20186 "default"
+652 "boat_life_saver_01_frontend"
+709 "-10999.8 -9543.75 29.5"
+1072 "floor_02_clutter"
+}
+{
+80 "331.999 90 -90"
+212 "script_model"
+20186 "default"
+652 "boat_life_saver_01_frontend"
+709 "-10999.8 -9598.25 29.5"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "utility_metal_deck_ventilation_port_01_frontend"
+709 "-11052.8 -9947.97 0.0908508"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "utility_metal_deck_ventilation_port_01_frontend"
+709 "-11052.8 -10634 0.0908508"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "utility_metal_deck_ventilation_port_01_frontend"
+709 "-11053 -9837.47 0.0908508"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "utility_metal_deck_ventilation_port_01_frontend"
+709 "-11526.2 -10634 0.0908508"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "utility_metal_bollard_01_frontend"
+709 "-11513 -10390 0"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_32_corner_out_frontend"
+709 "-11719 -8991 749.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11789 -8991 749.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11858.5 -8991 749.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11927 -8991 749.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11995.5 -8991 749.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "utility_metal_bollard_01_frontend"
+709 "-11098.3 -9443 0"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_32_frontend"
+709 "-12047 -8991 749.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_32_corner_out_frontend"
+709 "-12098 -8991 749.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "decor_rope_thick_coiled_01_frontend"
+709 "-11452.3 -10525.8 0"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 23.1992 0"
+212 "script_model"
+20186 "default"
+652 "un_industrial_wooden_pallet_01_frontend"
+709 "-11064.4 -10305.2 0"
+1072 "floor_02_clutter"
+}
+{
+80 "347.499 23.1992 5.77995e-07"
+212 "script_model"
+20186 "default"
+652 "un_industrial_wooden_pallet_01_frontend"
+709 "-11095.8 -10305.6 7"
+1072 "floor_02_clutter"
+}
+{
+80 "0 358.199 0"
+212 "script_model"
+20186 "default"
+652 "un_industrial_wooden_pallet_01_frontend"
+709 "-11064.4 -10415.2 0"
+1072 "floor_02_clutter"
+}
+{
+80 "0 89.9999 69.9993"
+212 "script_model"
+20186 "default"
+652 "un_industrial_wooden_pallet_01_frontend"
+709 "-11447.8 -9742.75 26"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "decor_rope_thick_coiled_01_frontend"
+709 "-11480.3 -8222.25 0"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "military_ascendertop_02_frontend"
+709 "-11013.5 -9442 -2"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 33.4008 0"
+212 "script_model"
+20186 "default"
+652 "ground_wires_01_multicolored_frontend"
+709 "-11281.8 -8194 0"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ground_wires_01_multicolored_frontend"
+709 "-11039.3 -9370.25 0"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 -90.0001"
+212 "script_model"
+20186 "default"
+652 "ee_pipe_05_32_frontend"
+709 "-11431 -8804 193.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 -90"
+212 "script_model"
+20186 "default"
+652 "ee_pipe_05_valve_01_frontend"
+709 "-11420 -8784 193.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 185.736 0"
+212 "script_model"
+20186 "default"
+652 "ground_wires_01_multicolored_frontend"
+709 "-11455.8 -6772 0"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 -90"
+212 "script_model"
+20186 "default"
+652 "ee_pipe_05_elbow_01_frontend"
+709 "-11431 -8793 193.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-12231.5 -10304 271.75"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 -180"
+212 "script_model"
+20186 "default"
+32390 "1.5"
+652 "ee_light_mounted_exterior_industrial_caged_02_on_warm_fe"
+709 "-11564.8 -8116.25 150"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "270 0 -180"
+212 "script_model"
+20186 "default"
+652 "ee_pipe_05_merged_01_frontend"
+709 "-11444 -8617 193.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 -90.0001"
+212 "script_model"
+20186 "default"
+652 "ee_pipe_05_32_frontend"
+709 "-11444 -8636 193.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 29.9998 0"
+212 "script_model"
+20186 "default"
+652 "un_industrial_wooden_pallet_01_frontend"
+709 "-11517.3 -8124 1.90735e-06"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "decor_barrels_01_blue"
+709 "-11518.3 -10269.5 0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 -90.0001"
+212 "script_model"
+20186 "default"
+652 "ee_pipe_05_32_frontend"
+709 "-11444 -8617 193.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "bridge_skyway_wires_hanging_01_frontend_anim"
+709 "-11238.5 -8811.75 184.75"
+845 "wire_anims"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "bridge_skyway_wires_hanging_01_frontend_anim"
+709 "-11265.3 -8803.75 189.75"
+845 "wire_anims"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "bridge_skyway_wires_hanging_01_frontend_anim"
+709 "-11340 -8811.75 189.75"
+845 "wire_anims"
+1072 "floor_02_clutter"
+}
+{
+80 "0 89.9997 0"
+212 "script_model"
+20186 "default"
+652 "bridge_skyway_wires_hanging_01_frontend_anim"
+709 "-11040.3 -8761.75 189.75"
+845 "wire_anims"
+1072 "floor_02_clutter"
+}
+{
+80 "0 26.238 0"
+212 "script_model"
+20186 "default"
+652 "pipe_set_pmars_merged_05_a_frontend"
+709 "-11450.3 -6303 -0.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 5.73594 0"
+212 "script_model"
+20186 "default"
+652 "ground_wires_01_multicolored_frontend"
+709 "-11219 -6123 0"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 -180"
+212 "script_model"
+20186 "default"
+32390 "1.5"
+652 "ee_light_mounted_exterior_industrial_caged_02_on_warm_fe"
+709 "-11491.5 -10205.8 150"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "decor_barrels_01_blue"
+709 "-11025.3 -10140.5 -0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 -180"
+212 "script_model"
+20186 "default"
+32390 "1.5"
+652 "ee_light_mounted_exterior_industrial_caged_02_on_warm_fe"
+709 "-11690.8 -10205.8 150"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 -180"
+212 "script_model"
+20186 "default"
+32390 "1.5"
+652 "ee_light_mounted_exterior_industrial_caged_02_on_warm_fe"
+709 "-11942.3 -10205.8 150"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "270 0 -90"
+212 "script_model"
+20186 "default"
+652 "ee_pipe_05_joint_coupling_01_frontend"
+709 "-11449 -8920.5 2"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "270 0 -90"
+212 "script_model"
+20186 "default"
+652 "ee_pipe_05_joint_coupling_01_frontend"
+709 "-11449 -8936.5 2"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_pipe_05_elbow_01_frontend"
+709 "-11460 -8920.5 144.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_pipe_05_elbow_01_frontend"
+709 "-11460 -8936.5 144.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "270 0 -90"
+212 "script_model"
+20186 "default"
+652 "ee_pipe_05_joint_coupling_01_frontend"
+709 "-11449 -8952.5 2"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_pipe_05_elbow_01_frontend"
+709 "-11460 -8952.5 94"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "270 180 -2.91573e-05"
+212 "script_model"
+20186 "default"
+652 "ee_pipe_05_valve_01_frontend"
+709 "-11449 -8920.75 43"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "270 0 -90"
+212 "script_model"
+20186 "default"
+652 "ee_pipe_05_joint_coupling_01_frontend"
+709 "-11449 -8920.5 82.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "270 0 -90"
+212 "script_model"
+20186 "default"
+652 "ee_pipe_05_joint_coupling_01_frontend"
+709 "-11449 -8936.5 82.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "270 0 -90"
+212 "script_model"
+20186 "default"
+652 "ee_pipe_05_joint_coupling_01_frontend"
+709 "-11449 -8952.5 46.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "270 0 -90"
+212 "script_model"
+20186 "default"
+652 "ee_pipe_05_joint_coupling_01_frontend"
+709 "-11449 -10186 2"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "ee_pipe_05_elbow_01_frontend"
+709 "-11460 -10186 144.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "270 180 -2.91573e-05"
+212 "script_model"
+20186 "default"
+652 "ee_pipe_05_valve_01_frontend"
+709 "-11449 -10186.3 43"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "270 0 -90"
+212 "script_model"
+20186 "default"
+652 "ee_pipe_05_joint_coupling_01_frontend"
+709 "-11449 -10186 82.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "bathroom_drain_01_frontend"
+709 "-11423.5 -10162 0.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "mp_frontend8_boat"
+709 "-11208 -8580 268"
+41154 "1"
+845 "anim_boats"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "bridge_skyway_wires_hanging_01_frontend_anim"
+709 "-11142.5 -8811.75 184.75"
+845 "wire_anims"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "bathroom_drain_01_frontend"
+709 "-11423.5 -10107.5 0.5"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "bathroom_drain_01_frontend"
+709 "-11440.5 -8468 0.5"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "bathroom_drain_01_frontend"
+709 "-11440.5 -8498 0.5"
+1072 "floor_02_clutter"
+}
+{
+80 "0 269.999 0"
+212 "script_model"
+20186 "default"
+652 "mp_frontend8_boat_ropes"
+709 "-11208 -8580 268"
+845 "anim_boat_ropes"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "bathroom_drain_01_frontend"
+709 "-11452.5 -6273.25 0.5"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "decor_barrels_01_blue"
+709 "-11060.3 -10094 0"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11522 -7636.5 2"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11522 -7505.5 2"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11522 -7571 2"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 -180"
+212 "script_model"
+20186 "default"
+652 "ee_light_mounted_exterior_industrial_caged_02_on_warm_fe"
+709 "-11460 -6132 110.5"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 -180"
+212 "script_model"
+20186 "default"
+652 "ee_light_mounted_exterior_industrial_caged_02_on_warm_fe"
+709 "-11488.8 -6325.75 110.5"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "decor_barrels_01_blue"
+709 "-11430.5 -9614.25 0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 262.1 0"
+212 "script_model"
+20186 "default"
+652 "ch_crate64X64_simple_frontend"
+709 "-11660.5 -7705.25 -24.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "decor_barrels_01_blue"
+709 "-11029 -10072.8 -0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "utility_metal_deck_ventilation_port_01_frontend"
+709 "-11642 -7898 24"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "utility_metal_deck_ventilation_port_01_frontend"
+709 "-11642 -7594 24"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11522 -7996.25 2"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11522 -7865.25 2"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11522 -7930.75 2"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11522 -8062.75 2"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "utility_metal_bollard_01_frontend"
+709 "-11074.3 -7811 0"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "military_ascendertop_02_frontend"
+709 "-11013.5 -7810 -2"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "331.999 90 -90"
+212 "script_model"
+20186 "default"
+652 "boat_life_saver_01_frontend"
+709 "-10999.8 -7935.75 29.5"
+1072 "floor_01_clutter"
+}
+{
+80 "331.999 90 -90"
+212 "script_model"
+20186 "default"
+652 "boat_life_saver_01_frontend"
+709 "-10999.8 -7990.25 29.5"
+1072 "floor_01_clutter"
+}
+{
+80 "331.999 90 -90"
+212 "script_model"
+20186 "default"
+652 "boat_life_saver_01_frontend"
+709 "-10999.8 -8339.75 29.5"
+1072 "floor_01_clutter"
+}
+{
+80 "331.999 90 -90"
+212 "script_model"
+20186 "default"
+652 "boat_life_saver_01_frontend"
+709 "-10999.8 -8394.25 29.5"
+1072 "floor_01_clutter"
+}
+{
+80 "270 0 -180"
+212 "script_model"
+20186 "default"
+652 "ee_pipe_05_joint_coupling_01_frontend"
+709 "-11021.8 -8255 2"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "decor_barrels_01_blue"
+709 "-11578.3 -9143.5 0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "90 324.462 54.4623"
+212 "script_model"
+20186 "default"
+652 "ee_pipe_05_32_frontend"
+709 "-11021.8 -8255 13"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "ee_pipe_05_valve_01_frontend"
+709 "-11021.8 -8235 24"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "270 0 -90"
+212 "script_model"
+20186 "default"
+652 "ee_pipe_05_joint_coupling_01_frontend"
+709 "-11021.8 -8166.5 2"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "ee_pipe_05_elbow_01_frontend"
+709 "-11021.8 -8244 13"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "270 0 89.9999"
+212 "script_model"
+20186 "default"
+652 "ee_pipe_05_joint_coupling_01_frontend"
+709 "-11021.8 -8217.5 2"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "ee_pipe_05_merged_01_frontend"
+709 "-11021.8 -8068 0"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 17.9996 89.9977"
+212 "script_model"
+20186 "default"
+652 "decor_barrels_01_blue"
+709 "-11608.5 -9154.25 14.25"
+1072 "floor_02_clutter"
+}
+{
+80 "270 0 0"
+212 "script_model"
+20186 "default"
+652 "decor_barrels_01_blue"
+709 "-11043.3 -9788.5 14.75"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "decor_barrels_01_blue"
+709 "-11538.5 -9144.25 0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "decor_barrels_01_blue"
+709 "-11524.5 -9020.25 0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "270 0 0"
+212 "script_model"
+20186 "default"
+652 "decor_barrels_01_blue"
+709 "-11054 -9758.75 14.75"
+1072 "floor_02_clutter"
+}
+{
+80 "270 0 0"
+212 "script_model"
+20186 "default"
+652 "decor_barrels_01_blue"
+709 "-11049.8 -9773.75 39"
+1072 "floor_02_clutter"
+}
+{
+80 "270 180 -2.91573e-05"
+212 "script_model"
+20186 "default"
+652 "decor_barrels_01_blue"
+709 "-11514.5 -10713.5 14.75"
+1072 "floor_02_clutter"
+}
+{
+80 "270 180 -2.91573e-05"
+212 "script_model"
+20186 "default"
+652 "decor_barrels_01_blue"
+709 "-11528.5 -10743.3 14.75"
+1072 "floor_02_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "utility_metal_deck_ventilation_port_01_frontend"
+709 "-11052.8 -6150.72 0.0908508"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "bathroom_drain_01_frontend"
+709 "-11044 -8372 0.5"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "bathroom_drain_01_frontend"
+709 "-11127 -7910 0.5"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "bathroom_drain_01_frontend"
+709 "-11044 -6590.25 0.5"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "bathroom_drain_01_frontend"
+709 "-11044 -7505.5 0.5"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "bathroom_drain_01_frontend"
+709 "-11044 -6083 2"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_32_corner_out_frontend"
+709 "-11425.5 -6251.25 136"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_32_frontend"
+709 "-11425.5 -6305.25 136"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_32_corner_out_frontend"
+709 "-11425.5 -6360.5 136"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11490.8 -6360.5 136"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11556.3 -6083.25 136"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11554.8 -6360.5 136"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11622.3 -6083.25 136"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11620.8 -6360.5 136"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11690.3 -6083.25 136"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11688.8 -6360.5 136"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11758.3 -6083.25 136"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11756.8 -6360.5 136"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11826.3 -6083.25 136"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11824.8 -6360.5 136"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11894.3 -6083.25 136"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11892.8 -6360.5 136"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11964.3 -6083.25 136"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-11962.8 -6360.5 136"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-12034.3 -6083.25 136"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-12032.8 -6360.5 136"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-12104.3 -6083.25 136"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-12102.8 -6360.5 136"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-12172.3 -6083.25 136"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 90 0"
+212 "script_model"
+20186 "default"
+652 "barrier_industrial_railing_64_frontend"
+709 "-12170.8 -6360.5 136"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "331.999 90 -90"
+212 "script_model"
+20186 "default"
+652 "boat_life_saver_01_frontend"
+709 "-10999.8 -6596.25 29.5"
+1072 "floor_01_clutter"
+}
+{
+80 "331.999 90 -90"
+212 "script_model"
+20186 "default"
+652 "boat_life_saver_01_frontend"
+709 "-10999.8 -6219.75 29.5"
+1072 "floor_01_clutter"
+}
+{
+80 "331.999 90 -90"
+212 "script_model"
+20186 "default"
+652 "boat_life_saver_01_frontend"
+709 "-10999.8 -6274.25 29.5"
+1072 "floor_01_clutter"
+}
+{
+80 "0 276.1 0"
+212 "script_model"
+20186 "default"
+652 "ch_crate64X64_simple_frontend"
+709 "-11598.5 -6169.25 135.75"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "watertank_ladder_144_yellow_frontend"
+709 "-11454.3 -6220.5 0.75"
+1072 "floor_01_clutter"
+}
+{
+80 "0 186.1 0"
+212 "script_model"
+20186 "default"
+652 "ch_crate64X64_simple_frontend"
+709 "-12167.3 -6323.5 135.75"
+1072 "floor_01_clutter"
+}
+{
+80 "0 186.1 0"
+212 "script_model"
+20186 "default"
+652 "ch_crate64X64_simple_frontend"
+709 "-11929.3 -6323.5 135.75"
+1072 "floor_01_clutter"
+}
+{
+80 "0 220.585 -90.0002"
+212 "script_model"
+20186 "default"
+652 "decor_barrels_01_blue"
+709 "-11443.8 -9645.25 14.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "decor_barrels_01_blue"
+709 "-11023.8 -8958.5 0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "270 180 -2.91573e-05"
+212 "script_model"
+20186 "default"
+652 "decor_barrels_01_blue"
+709 "-11518.3 -10728.3 39"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "decor_barrels_01_blue"
+709 "-11501.5 -10234 0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "decor_barrels_01_blue"
+709 "-11032.8 -8850.75 0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_brushmodel"
+20186 "default"
+652 "*6"
+709 "-19308 -6654 4"
+}
+{
+80 "0 269.999 0"
+212 "script_model"
+20186 "default"
+652 "mp_frontend8_boat_ropes"
+709 "-11208 -8820 268"
+845 "anim_boat_ropes"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_brushmodel"
+20186 "default"
+652 "*7"
+709 "-19308 -6654 4"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*8"
+709 "-11300 -9612 0"
+1072 "mp_lobby_floor_02"
+}
+{
+80 "0 0 0"
+212 "script_brushmodel"
+20186 "default"
+652 "*9"
+709 "-19308 -6654 4"
+}
+{
+80 "0 0 0"
+212 "script_brushmodel"
+20186 "default"
+652 "*10"
+709 "-19308 -6654 4"
+}
+{
+80 "0 0 0"
+212 "script_brushmodel"
+20186 "default"
+652 "*11"
+709 "-19308 -6654 4"
+}
+{
+80 "0 0 0"
+212 "script_brushmodel"
+20186 "default"
+652 "*12"
+709 "-19308 -6654 4"
+}
+{
+80 "0 0 0"
+212 "script_brushmodel"
+20186 "default"
+652 "*13"
+709 "-19308 -6654 4"
+}
+{
+80 "0 0 0"
+212 "script_brushmodel"
+20186 "default"
+652 "*14"
+709 "-19308 -6654 4"
+}
+{
+80 "0 180 -90"
+212 "script_model"
+20186 "default"
+652 "container_straps_03_bracket"
+709 "-11244.5 -9915.75 -0.5"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 -90"
+212 "script_model"
+20186 "default"
+652 "container_straps_03_bracket"
+709 "-11247.3 -8661 0"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 -90"
+212 "script_model"
+20186 "default"
+652 "container_straps_03_bracket"
+709 "-11244 -9993.25 -0.5"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 -90"
+212 "script_model"
+20186 "default"
+652 "container_straps_03_bracket"
+709 "-11245.8 -8738.25 0"
+1072 "floor_02_clutter"
+}
+{
+80 "3.41509e-06 90 -90"
+212 "script_model"
+20186 "default"
+652 "container_straps_03_bracket"
+709 "-11208 -8699.25 0"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 -90"
+212 "script_model"
+20186 "default"
+652 "container_straps_03_bracket"
+709 "-11284 -8701 0"
+1072 "floor_02_clutter"
+}
+{
+80 "3.41509e-06 90 -90"
+212 "script_model"
+20186 "default"
+652 "container_straps_03_bracket"
+709 "-11208.3 -9954.5 -0.5"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 -90"
+212 "script_model"
+20186 "default"
+652 "container_straps_03_bracket"
+709 "-11284 -9956 -0.5"
+1072 "floor_02_clutter"
+}
+{
+80 "0 3.77505 0"
+212 "script_model"
+20186 "default"
+652 "ground_wires_01_multicolored_frontend"
+709 "-11077 -7759.5 0"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "decor_barrels_01_blue"
+709 "-11501.8 -8005.5 0.25"
+1072 "floor_01_clutter"
+}
+{
+80 "270 0 0"
+212 "script_model"
+20186 "default"
+652 "decor_barrels_01_blue"
+709 "-11029 -7672.5 14.75"
+1072 "floor_01_clutter"
+}
+{
+80 "270 0 0"
+212 "script_model"
+20186 "default"
+652 "decor_barrels_01_blue"
+709 "-11039.8 -7642.75 14.75"
+1072 "floor_01_clutter"
+}
+{
+80 "270 0 0"
+212 "script_model"
+20186 "default"
+652 "decor_barrels_01_blue"
+709 "-11035.5 -7657.75 39"
+1072 "floor_01_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "decor_barrels_01_blue"
+709 "-11487.3 -7328.25 0.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "decor_barrels_01_blue"
+709 "-11473 -7295.5 0.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "decor_barrels_01_blue"
+709 "-11024.8 -6323.25 0.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "decor_barrels_01_blue"
+709 "-11429 -6147.5 0.25"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "bathroom_drain_01_frontend"
+709 "-11405 -7505.5 0.5"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "bathroom_drain_01_frontend"
+709 "-11405 -7729.5 0.5"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "bathroom_drain_01_frontend"
+709 "-11405.5 -7913.5 0.5"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "bathroom_drain_01_frontend"
+709 "-11405 -6657.5 0.5"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "bathroom_drain_01_frontend"
+709 "-11405.5 -6881.5 0.5"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "bathroom_drain_01_frontend"
+709 "-11405 -7065.5 0.5"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "bathroom_drain_01_frontend"
+709 "-11328.5 -8676 0.5"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "bathroom_drain_01_frontend"
+709 "-11328.5 -8898 0.5"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "bathroom_drain_01_frontend"
+709 "-11328.5 -9036 0.5"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "bathroom_drain_01_frontend"
+709 "-11328.5 -9258 0.5"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "bathroom_drain_01_frontend"
+709 "-11176.5 -9716 0.5"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "bathroom_drain_01_frontend"
+709 "-11176.5 -9938 0.5"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "decor_barrels_01_blue"
+709 "-11041 -8531.25 0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "decor_barrels_01_blue"
+709 "-11041.8 -8571 0.25"
+1072 "floor_02_clutter"
+}
+{
+80 "270 0 0"
+212 "script_model"
+20186 "default"
+652 "decor_barrels_01_blue"
+709 "-11029 -8021.75 14.75"
+1072 "floor_01_clutter"
+}
+{
+80 "270 0 0"
+212 "script_model"
+20186 "default"
+652 "decor_barrels_01_blue"
+709 "-11039.8 -7992 14.75"
+1072 "floor_01_clutter"
+}
+{
+80 "270 0 0"
+212 "script_model"
+20186 "default"
+652 "decor_barrels_01_blue"
+709 "-11035.5 -8007 39"
+1072 "floor_01_clutter"
+}
+{
+80 "270 0 0"
+212 "script_model"
+20186 "default"
+652 "decor_barrels_01_blue"
+709 "-11040 -6599.25 14.75"
+1072 "floor_01_clutter"
+}
+{
+80 "270 0 0"
+212 "script_model"
+20186 "default"
+652 "decor_barrels_01_blue"
+709 "-11050.8 -6569.5 14.75"
+1072 "floor_01_clutter"
+}
+{
+80 "270 0 0"
+212 "script_model"
+20186 "default"
+652 "decor_barrels_01_blue"
+709 "-11046.5 -6584.5 39"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "decor_barrels_01_blue"
+709 "-11440.8 -6180.75 0.25"
+1072 "floor_01_clutter"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*15"
+709 "-11259 -9745 0"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "machinery_chemical_filling_canister_yellow_frontend"
+709 "-11524.5 -6456.25 0"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 300 0"
+212 "script_model"
+20186 "default"
+652 "machinery_chemical_filling_canister_yellow_frontend"
+709 "-11487.3 -7368.25 0"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 210 0"
+212 "script_model"
+20186 "default"
+652 "machinery_chemical_filling_canister_yellow_frontend"
+709 "-11052 -8811 0"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 179.287 0"
+212 "script_model"
+20186 "default"
+652 "machinery_chemical_filling_canister_yellow_frontend"
+709 "-11446.3 -9516.25 0"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 89.287 0"
+212 "script_model"
+20186 "default"
+652 "machinery_chemical_filling_canister_yellow_frontend"
+709 "-11484 -10341 0"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0.711407 89.9401 85.4858"
+212 "script_model"
+20186 "default"
+652 "machinery_chemical_filling_canister_yellow_frontend"
+709 "-11498.8 -10309 12.5"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 89.287 0"
+212 "script_model"
+20186 "default"
+652 "machinery_chemical_filling_canister_yellow_frontend"
+709 "-11029.3 -10014.8 0"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "brokenglass_pile09_falloff"
+709 "-11414 -9918 0"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "brokenglass_pile09_falloff"
+709 "-11388 -9888 0"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "machinery_chemical_filling_canister_yellow_frontend"
+709 "-11475 -6364.75 0"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 82.96 0"
+212 "script_model"
+20186 "default"
+652 "machinery_chemical_filling_canister_yellow_frontend"
+709 "-11081.5 -8667 0"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 210 0"
+212 "script_model"
+20186 "default"
+652 "machinery_chemical_filling_canister_yellow_frontend"
+709 "-11527 -8191.25 0"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "329.717 314.879 -88.674"
+212 "script_model"
+20186 "default"
+652 "machinery_chemical_filling_canister_yellow_frontend"
+709 "-11496.5 -8307.75 14.75"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 120 0"
+212 "script_model"
+20186 "default"
+652 "machinery_chemical_filling_canister_yellow_frontend"
+709 "-11571.8 -8019.75 -24.25"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "machinery_chemical_filling_canister_yellow_frontend"
+709 "-11467 -6337.75 136"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*16"
+709 "-11441 -7329 0"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 299.286 0"
+212 "script_model"
+20186 "default"
+652 "machinery_chemical_filling_canister_yellow_frontend"
+709 "-11440.7 -10256.8 0"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0.711408 34.9398 85.4856"
+212 "script_model"
+20186 "default"
+652 "machinery_chemical_filling_canister_yellow_frontend"
+709 "-11435 -10210.3 12.5"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 299.286 0"
+212 "script_model"
+20186 "default"
+652 "machinery_chemical_filling_canister_yellow_frontend"
+709 "-11488.7 -10592.8 0"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 209.286 0"
+212 "script_model"
+20186 "default"
+652 "machinery_chemical_filling_canister_yellow_frontend"
+709 "-11486.8 -10553.3 0"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 89.287 0"
+212 "script_model"
+20186 "default"
+652 "machinery_chemical_filling_canister_yellow_frontend"
+709 "-11077.3 -9906.75 0"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 359.287 0"
+212 "script_model"
+20186 "default"
+652 "machinery_chemical_filling_canister_yellow_frontend"
+709 "-11096.8 -9880.75 0"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 179.287 0"
+212 "script_model"
+20186 "default"
+652 "machinery_chemical_filling_canister_yellow_frontend"
+709 "-11430.3 -9544.25 0"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "330.015 271.001 87.9962"
+212 "script_model"
+20186 "default"
+652 "machinery_chemical_filling_canister_yellow_frontend"
+709 "-11040 -8783.5 14.5"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 352.16 0"
+212 "script_model"
+20186 "default"
+652 "machinery_chemical_filling_canister_yellow_frontend"
+709 "-11068.5 -8627.25 0"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 262.96 0"
+212 "script_model"
+20186 "default"
+652 "machinery_chemical_filling_canister_yellow_frontend"
+709 "-11437 -8728.25 0"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 183.464 0"
+212 "script_model"
+20186 "default"
+652 "machinery_chemical_filling_canister_yellow_frontend"
+709 "-11430.5 -8699 0"
+845 "seasonal"
+1072 "floor_02_clutter"
+}
+{
+80 "0 292.322 0"
+212 "script_model"
+20186 "default"
+652 "machinery_chemical_filling_canister_yellow_frontend"
+709 "-11473.3 -8107 0"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 210 0"
+212 "script_model"
+20186 "default"
+652 "machinery_chemical_filling_canister_yellow_frontend"
+709 "-11045 -8195.25 0"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 83.9035 0"
+212 "script_model"
+20186 "default"
+652 "machinery_chemical_filling_canister_yellow_frontend"
+709 "-11035.3 -8047 0"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 210 0"
+212 "script_model"
+20186 "default"
+652 "machinery_chemical_filling_canister_yellow_frontend"
+709 "-11494 -7413.25 0"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "machinery_chemical_filling_canister_yellow_frontend"
+709 "-11446.8 -6344 0"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "machinery_chemical_filling_canister_yellow_frontend"
+709 "-11445 -6305.25 136"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 124.024 0"
+212 "script_model"
+20186 "default"
+652 "machinery_chemical_filling_canister_yellow_frontend"
+709 "-11511.5 -6527.5 0"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "machinery_chemical_filling_canister_yellow_frontend"
+709 "-11052.3 -6431 0"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+80 "0 180 0"
+212 "script_model"
+20186 "default"
+652 "machinery_chemical_filling_canister_yellow_frontend"
+709 "-11022 -6390.5 0"
+845 "seasonal"
+1072 "floor_01_clutter"
+}
+{
+2494 "0 0 0"
+2495 "15"
+2496 "prefabs/mp/mp_frontend8/lighting/mp_frontend8_room_lobby_lighting_08.map"
+2497 "-11316 -8334 0"
+2498 "_e15_p8_p3_p1"
+2553 "1 0.9059 0.5843"
+212 "light_omni"
+20186 "default"
+20407 "90"
+519 "1"
+33510 "1000"
+709 "-11452 -8492.5 144.5"
+1 "78"
+782 "200"
+845 "floor_02_lights"
+44079 "off"
+925 "44"
+1070 "pf6_auto3394"
+}
+{
+2494 "0 0 0"
+2495 "16"
+2496 "prefabs/mp/mp_frontend8/lighting/mp_frontend8_room_lobby_lighting_08.map"
+2497 "-11316 -8334 0"
+2498 "_e16_p8_p3_p1"
+2553 "1 0.9059 0.5843"
+212 "light_omni"
+20186 "default"
+20407 "90"
+519 "1"
+33510 "1000"
+709 "-11452 -8753.5 144.5"
+1 "77"
+782 "200"
+845 "floor_02_lights"
+44079 "off"
+925 "44"
+1070 "pf6_auto3393"
+}
+{
+2494 "0 0 0"
+2495 "19"
+2496 "prefabs/mp/mp_frontend8/lighting/mp_frontend8_room_lobby_lighting_08.map"
+2497 "-11316 -8334 0"
+2498 "_e19_p8_p3_p1"
+2553 "1 0.9059 0.5843"
+212 "light_omni"
+20186 "default"
+20407 "90"
+519 "1"
+33510 "1000"
+709 "-11451.8 -9848.25 144.5"
+1 "81"
+782 "200"
+845 "floor_02_lights"
+44079 "off"
+925 "44"
+1070 "pf6_auto3395"
+}
+{
+2494 "0 0 0"
+2495 "20"
+2496 "prefabs/mp/mp_frontend8/lighting/mp_frontend8_room_lobby_lighting_08.map"
+2497 "-11316 -8334 0"
+2498 "_e20_p8_p3_p1"
+2553 "1 0.9059 0.5843"
+212 "light_omni"
+20186 "default"
+20407 "90"
+519 "1"
+33510 "1000"
+709 "-11451.8 -10109.3 144.5"
+1 "79"
+782 "200"
+845 "floor_02_lights"
+44079 "off"
+925 "44"
+1070 "pf6_auto3396"
+}
+{
+2494 "0 0 0"
+2495 "33"
+2496 "prefabs/mp/mp_frontend8/lighting/mp_frontend8_room_lobby_lighting_08.map"
+2497 "-11316 -8334 0"
+2498 "_e33_p8_p3_p1"
+2553 "1 0.9059 0.5843"
+212 "light_omni"
+20186 "default"
+20407 "90"
+519 "1"
+33510 "1000"
+709 "-11451.8 -9847.75 443.5"
+1 "82"
+782 "200"
+845 "floor_02_lights"
+44079 "off"
+925 "44"
+1070 "pf6_auto3399"
+}
+{
+2494 "0 0 0"
+2495 "34"
+2496 "prefabs/mp/mp_frontend8/lighting/mp_frontend8_room_lobby_lighting_08.map"
+2497 "-11316 -8334 0"
+2498 "_e34_p8_p3_p1"
+2553 "1 0.9059 0.5843"
+212 "light_omni"
+20186 "default"
+20407 "90"
+519 "1"
+33510 "1000"
+709 "-11451.8 -10108.8 443.5"
+1 "80"
+782 "200"
+845 "floor_02_lights"
+44079 "off"
+925 "44"
+1070 "pf6_auto3400"
+}
+{
+2494 "0 0 0"
+2495 "38"
+2496 "prefabs/mp/mp_frontend8/lighting/mp_frontend8_room_lobby_lighting_08.map"
+2497 "-11316 -8334 0"
+2498 "_e38_p8_p3_p1"
+2553 "1 0 0"
+212 "light_omni"
+20186 "default"
+20407 "90"
+519 "20"
+33510 "1000"
+35654 "1"
+709 "-10998 -9889 109"
+1 "85"
+782 "150"
+845 "floor_02_lights"
+44079 "off"
+925 "44"
+1070 "pf6_auto3432"
+}
+{
+2494 "0 0 0"
+2495 "41"
+2496 "prefabs/mp/mp_frontend8/lighting/mp_frontend8_room_lobby_lighting_08.map"
+2497 "-11316 -8334 0"
+2498 "_e41_p8_p3_p1"
+2553 "1 0 0"
+212 "light_omni"
+20186 "default"
+20407 "90"
+519 "20"
+33510 "1000"
+35654 "1"
+709 "-10998 -6183 109"
+1 "89"
+782 "150"
+845 "floor_01_lights"
+44079 "off"
+925 "44"
+1070 "pf6_auto3434"
+}
+{
+2494 "0 0 0"
+2495 "46"
+2496 "prefabs/mp/mp_frontend8/lighting/mp_frontend8_room_lobby_lighting_08.map"
+2497 "-11316 -8334 0"
+2498 "_e46_p8_p3_p1"
+2553 "1 0 0"
+212 "light_omni"
+20186 "default"
+20407 "90"
+519 "20"
+33510 "1000"
+35654 "1"
+709 "-10998 -10555 109"
+1 "84"
+782 "150"
+845 "floor_02_lights"
+44079 "off"
+925 "44"
+1070 "pf6_auto3436"
+}
+{
+2494 "0 0 0"
+2495 "55"
+2496 "prefabs/mp/mp_frontend8/lighting/mp_frontend8_room_lobby_lighting_08.map"
+2497 "-11316 -8334 0"
+2498 "_e55_p8_p3_p1"
+2553 "1 0.9059 0.5843"
+212 "light_omni"
+20186 "default"
+20407 "90"
+519 "1"
+33510 "1000"
+709 "-11492.5 -6330.25 105.5"
+1 "86"
+782 "200"
+845 "floor_01_lights"
+44079 "off"
+925 "44"
+1070 "pf6_auto3443"
+}
+{
+2494 "0 0 0"
+2495 "56"
+2496 "prefabs/mp/mp_frontend8/lighting/mp_frontend8_room_lobby_lighting_08.map"
+2497 "-11316 -8334 0"
+2498 "_e56_p8_p3_p1"
+2553 "1 0.8856 0.6863"
+9429 "15"
+212 "light_spot"
+20186 "default"
+20402 "180"
+20404 "100"
+20407 "125"
+519 "500"
+33510 "1000"
+709 "-11308 -8686 154.5"
+1 "69"
+782 "500"
+845 "floor_02_lights"
+44079 "off"
+925 "4"
+1070 "pf6_auto3442"
+}
+{
+2494 "0 0 0"
+2495 "59"
+2496 "prefabs/mp/mp_frontend8/lighting/mp_frontend8_room_lobby_lighting_08.map"
+2497 "-11316 -8334 0"
+2498 "_e59_p8_p3_p1"
+2553 "1 0.9059 0.5843"
+212 "light_omni"
+20186 "default"
+20407 "90"
+519 "1"
+33510 "1000"
+709 "-11450 -6138.25 105"
+1 "87"
+782 "200"
+845 "floor_01_lights"
+44079 "off"
+925 "44"
+1070 "pf6_auto3444"
+}
+{
+2494 "0 0 0"
+2495 "61"
+2496 "prefabs/mp/mp_frontend8/lighting/mp_frontend8_room_lobby_lighting_08.map"
+2497 "-11316 -8334 0"
+2498 "_e61_p8_p3_p1"
+2553 "1 0.8856 0.6863"
+80 "0 0 -180"
+212 "light_spot"
+20186 "default"
+20402 "180"
+20404 "100"
+20407 "150"
+519 "5"
+33510 "1000"
+35654 "0"
+709 "-11307.5 -8686.5 139"
+1 "70"
+782 "25"
+845 "floor_02_lights"
+44079 "off"
+925 "44"
+1070 "pf6_auto3451"
+}
+{
+2494 "0 0 0"
+2495 "65"
+2496 "prefabs/mp/mp_frontend8/lighting/mp_frontend8_room_lobby_lighting_08.map"
+2497 "-11316 -8334 0"
+2498 "_e65_p8_p3_p1"
+2553 "1 0.9059 0.5843"
+212 "light_omni"
+20186 "default"
+20407 "90"
+519 "1"
+33510 "1000"
+709 "-11491.8 -10214.3 143.5"
+1 "76"
+782 "200"
+845 "floor_02_lights"
+44079 "off"
+925 "44"
+1070 "pf6_auto3447"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "uk_kitchen_light_hanging_ceiling_lamp_01_on"
+709 "-11308 -8686 182.5"
+1072 "floor_02_clutter"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "uk_kitchen_light_hanging_ceiling_lamp_01_on"
+709 "-11051.5 -8686 182.5"
+1072 "floor_02_clutter"
+}
+{
+2494 "0 0 0"
+2495 "73"
+2496 "prefabs/mp/mp_frontend8/lighting/mp_frontend8_room_lobby_lighting_08.map"
+2497 "-11316 -8334 0"
+2498 "_e73_p8_p3_p1"
+2553 "1 0.8856 0.6863"
+9429 "15"
+212 "light_spot"
+20186 "default"
+20402 "180"
+20404 "100"
+20407 "125"
+519 "500"
+33510 "1000"
+709 "-11051.5 -8686 151.5"
+1 "71"
+782 "500"
+845 "floor_02_lights"
+44079 "off"
+925 "44"
+1070 "pf6_auto3452"
+}
+{
+2494 "0 0 0"
+2495 "75"
+2496 "prefabs/mp/mp_frontend8/lighting/mp_frontend8_room_lobby_lighting_08.map"
+2497 "-11316 -8334 0"
+2498 "_e75_p8_p3_p1"
+2553 "1 0.8856 0.6863"
+80 "0 0 -180"
+212 "light_spot"
+20186 "default"
+20402 "180"
+20404 "100"
+20407 "150"
+519 "5"
+33510 "1000"
+35654 "0"
+709 "-11051 -8685.5 141"
+1 "72"
+782 "25"
+845 "floor_02_lights"
+44079 "off"
+925 "44"
+1070 "pf6_auto3453"
+}
+{
+2494 "0 0 0"
+2495 "77"
+2496 "prefabs/mp/mp_frontend8/lighting/mp_frontend8_room_lobby_lighting_08.map"
+2497 "-11316 -8334 0"
+2498 "_e77_p8_p3_p1"
+2553 "1 1 1"
+212 "light_spot"
+20186 "default"
+20402 "180"
+20404 "60"
+20407 "90"
+519 "500"
+33510 "10000"
+35654 "1"
+709 "-11310.5 -6465.5 282"
+1 "75"
+782 "1000"
+845 "floor_01_lights"
+44079 "on"
+46414 "0.8"
+925 "44"
+1070 "pf6_auto3454"
+}
+{
+2494 "0 0 0"
+2495 "93"
+2496 "prefabs/mp/mp_frontend8/lighting/mp_frontend8_room_lobby_lighting_08.map"
+2497 "-11316 -8334 0"
+2498 "_e93_p8_p3_p1"
+2553 "0.902 0.9758 1"
+80 "354.055 94.5136 4.70434"
+9429 "5"
+212 "light_spot"
+20186 "default"
+20402 "180"
+20404 "40"
+20407 "65"
+519 "2000"
+33510 "10000"
+35654 "0"
+709 "-11411.2 -6271.15 186.3"
+1 "74"
+782 "500"
+845 "floor_01_lights"
+44079 "on"
+925 "4"
+1070 "pf6_auto3456"
+}
+{
+2494 "0 0 0"
+2495 "95"
+2496 "prefabs/mp/mp_frontend8/lighting/mp_frontend8_room_lobby_lighting_08.map"
+2497 "-11316 -8334 0"
+2498 "_e95_p8_p3_p1"
+2553 "0.902 0.9758 1"
+80 "356.391 109.399 2.81653"
+9429 "5"
+212 "light_spot"
+20186 "default"
+20402 "180"
+20404 "40"
+20407 "65"
+519 "2000"
+33510 "10000"
+35654 "0"
+709 "-11444.5 -9298.05 183.934"
+1 "68"
+782 "500"
+845 "floor_02_lights"
+44079 "on"
+925 "4"
+1070 "pf6_auto3457"
+}
+{
+2494 "0 0 0"
+2495 "100"
+2496 "prefabs/mp/mp_frontend8/lighting/mp_frontend8_room_lobby_lighting_08.map"
+2497 "-11316 -8334 0"
+2498 "_e100_p8_p3_p1"
+2553 "1 1 1"
+212 "light_spot"
+20186 "default"
+20402 "180"
+20404 "60"
+20407 "90"
+519 "500"
+33510 "10000"
+35654 "1"
+709 "-11446.5 -7465.5 282"
+1 "73"
+782 "1000"
+845 "floor_01_lights"
+44079 "on"
+46414 "0.8"
+925 "44"
+1070 "pf6_auto3458"
+}
+{
+80 "45.7756 313.56 -179.806"
+212 "script_model"
+20186 "default"
+652 "veh8_mil_air_mindia8_spotlight"
+709 "-11425.2 -6256.61 186.546"
+41154 "1"
+1072 "floor_01_clutter"
+}
+{
+80 "50.7309 328.309 -179.788"
+212 "script_model"
+20186 "default"
+652 "veh8_mil_air_mindia8_spotlight"
+709 "-11461.9 -9287.48 187.046"
+41154 "1"
+1072 "floor_02_clutter"
+}
+{
+2494 "0 0 0"
+2495 "110"
+2496 "prefabs/mp/mp_frontend8/lighting/mp_frontend8_room_lobby_lighting_08.map"
+2497 "-11316 -8334 0"
+2498 "_e110_p8_p3_p1"
+2553 "0.902 0.9758 1"
+80 "356.391 94.6682 2.81653"
+9429 "5"
+212 "light_omni"
+17601 "0"
+20186 "default"
+20402 "180"
+20404 "10"
+20407 "65"
+519 "5"
+33510 "10000"
+709 "-11412.5 -6270.5 187.934"
+1 "88"
+782 "10"
+845 "floor_01_lights"
+44079 "on"
+925 "44"
+1070 "pf6_auto3460"
+}
+{
+2494 "0 0 0"
+2495 "111"
+2496 "prefabs/mp/mp_frontend8/lighting/mp_frontend8_room_lobby_lighting_08.map"
+2497 "-11316 -8334 0"
+2498 "_e111_p8_p3_p1"
+2553 "0.902 0.9758 1"
+80 "356.391 109.399 2.81653"
+9429 "5"
+212 "light_omni"
+17601 "0"
+20186 "default"
+20402 "180"
+20404 "10"
+20407 "65"
+519 "5"
+33510 "10000"
+709 "-11447.1 -9296.47 188.934"
+1 "83"
+782 "10"
+845 "floor_02_lights"
+44079 "on"
+925 "44"
+1070 "pf6_auto3459"
+}
+{
+80 "5.99999 97 4.46218e-08"
+212 "script_origin"
+20186 "default"
+709 "6149.75 -10922 62.5"
+1072 "char_west_b"
+}
+{
+80 "0 290 0"
+212 "script_origin"
+20186 "default"
+652 "static_mp_eastern_syd_pose_a"
+709 "6155.07 -10730.7 0"
+1072 "charroom_char_west_b"
+}
+{
+80 "0 79.9999 0"
+212 "script_origin"
+20186 "default"
+709 "6140 -10833 58"
+1072 "char_west_b_detail"
+}
+{
+212 "script_origin"
+20186 "default"
+709 "6144 -10752 0"
+1072 "charroom_fx_west_b"
+}
+{
+80 "0 90 0"
+212 "script_struct"
+20186 "default"
+709 "6186 -10851.5 2"
+845 "28"
+1072 "dev_warp_loc"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "mp_fullbody_execution_dog_malinois"
+709 "6124 -10708 0"
+1072 "charroom_char_west_b_dog"
+}
+{
+35292 "1"
+80 "0 345 0"
+212 "script_model"
+20186 "default"
+652 "military_frontend_west_set_b_02_wire1"
+709 "6219.75 -10662 99.5"
+41154 "1"
+925 "8"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*17"
+709 "6147 -10714 58"
+}
+{
+35292 "1"
+80 "0 337.996 0"
+212 "script_model"
+20186 "default"
+652 "military_frontend_west_set_b_02_wire2"
+709 "6210 -10708 88"
+41154 "1"
+925 "8"
+}
+{
+35292 "1"
+80 "0 21.9996 0"
+212 "script_model"
+20186 "default"
+652 "military_frontend_west_set_b_02_wire3"
+709 "6098 -10700 94"
+41154 "1"
+925 "8"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "military_frontend_west_set_b_02_back"
+709 "6168 -10800 0"
+41154 "1"
+1072 "pf8_auto1"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*18"
+709 "6187 -10603 58"
+}
+{
+35292 "1"
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "military_frontend_west_set_b_02"
+709 "6168 -10800 0"
+41154 "1"
+925 "8"
+1070 "pf8_auto1"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*19"
+709 "6207 -10777 0"
+}
+{
+212 "script_origin"
+20186 "default"
+709 "-3096 -7680 112"
+1072 "gunsmith_fx"
+}
+{
+80 "0 270 0"
+212 "script_model"
+20186 "default"
+652 "test_gunsmith_blackbackground"
+709 "-2918 -7690 0"
+}
+{
+80 "0 89.9999 0"
+212 "script_model"
+20186 "default"
+652 "test_gunsmith_blackbackground"
+709 "-3108 -7668 0"
+}
+{
+80 "0 180 0"
+212 "script_struct"
+20186 "default"
+709 "-3008 -7678 58"
+845 "55"
+1072 "dev_warp_loc"
+}
+{
+80 "2.99996 15.9999 -1.06575e-07"
+212 "script_origin"
+20186 "default"
+709 "-3122 -7690.5 116.5"
+1072 "camera_mp_gunsmith_preview_laser"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+709 "-3072 -7681 110"
+1072 "camera_mp_gunsmith_preview_magazine"
+}
+{
+80 "0 129.644 0"
+212 "script_origin"
+20186 "default"
+709 "-3080 -7721 115"
+1072 "camera_mp_gunsmith_preview_muzzle"
+}
+{
+80 "2.99991 258.598 2.50053e-07"
+212 "script_origin"
+20186 "default"
+709 "-3089.5 -7656.5 117.5"
+1072 "camera_mp_gunsmith_preview_optic"
+}
+{
+80 "0 184 0"
+212 "script_origin"
+20186 "default"
+709 "-3075.5 -7674 111"
+1072 "camera_mp_gunsmith_preview_reargrip"
+}
+{
+80 "0.999971 203 9.56471e-08"
+212 "script_origin"
+20186 "default"
+709 "-3057 -7654 115"
+1072 "camera_mp_gunsmith_preview_stock"
+}
+{
+80 "0 165.839 0"
+212 "script_origin"
+20186 "default"
+709 "-3064.5 -7699 112"
+1072 "camera_mp_gunsmith_preview_underbarrel"
+}
+{
+80 "0 184 0"
+212 "script_origin"
+20186 "default"
+709 "-3073 -7677.5 111.5"
+1072 "camera_mp_gunsmith_preview_large_reargrip"
+}
+{
+80 "2.99996 15.9999 -1.06575e-07"
+212 "script_origin"
+20186 "default"
+709 "-3115 -7680 118"
+1072 "camera_mp_gunsmith_preview_small_laser"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+709 "-3076 -7675 113"
+1072 "camera_mp_gunsmith_preview_small_magazine"
+}
+{
+80 "0 134.907 0"
+212 "script_origin"
+20186 "default"
+709 "-3081 -7705 117"
+1072 "camera_mp_gunsmith_preview_small_muzzle"
+}
+{
+80 "2.99991 250.462 -1.78727e-07"
+212 "script_origin"
+20186 "default"
+709 "-3087.51 -7660.57 119"
+1072 "camera_mp_gunsmith_preview_small_optic"
+}
+{
+80 "0 201.841 0"
+212 "script_origin"
+20186 "default"
+709 "-3076 -7669 115"
+1072 "camera_mp_gunsmith_preview_small_reargrip"
+}
+{
+80 "0.999971 193 7.44999e-08"
+212 "script_origin"
+20186 "default"
+709 "-3059.5 -7666.5 116"
+1072 "camera_mp_gunsmith_preview_small_stock"
+}
+{
+80 "0 164 0"
+212 "script_origin"
+20186 "default"
+709 "-3084 -7680.5 116"
+1072 "camera_mp_gunsmith_preview_small_trigger"
+}
+{
+80 "2.99995 165 -8.76438e-07"
+212 "script_origin"
+20186 "default"
+709 "-3075 -7687.5 118"
+1072 "camera_mp_gunsmith_preview_small_barrel"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+709 "-3062 -7689 111"
+1072 "camera_mp_gunsmith_preview_large_magazine"
+}
+{
+80 "0 120.5 0"
+212 "script_origin"
+20186 "default"
+709 "-3084 -7739 115"
+1072 "camera_mp_gunsmith_preview_large_muzzle"
+}
+{
+80 "2.99991 258.598 2.50053e-07"
+212 "script_origin"
+20186 "default"
+709 "-3087 -7653.5 118.5"
+1072 "camera_mp_gunsmith_preview_large_optic"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+709 "-3040 -7678 113"
+1072 "camera_mp_gunsmith_preview"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "weapon_wm_ar_mike4_brprop"
+709 "-3096 -7682 114"
+41154 "1"
+1072 "weapon_loc_preview"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+709 "-3028 -7687 113"
+1072 "camera_mp_gunsmith_preview_large"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+709 "-3060 -7675 117"
+1072 "camera_mp_gunsmith_preview_secondary"
+}
+{
+80 "2.99991 164.96 -1.08957e-06"
+212 "script_origin"
+20186 "default"
+709 "-3064.5 -7699 116.5"
+1072 "camera_mp_gunsmith_preview_barrel"
+}
+{
+80 "0 184 0"
+212 "script_origin"
+20186 "default"
+709 "-3074.5 -7674 111.5"
+1072 "camera_mp_gunsmith_preview_large_reargrip_alt1"
+}
+{
+80 "0.999971 228.483 -8.93999e-08"
+212 "script_origin"
+20186 "default"
+709 "-3062 -7639.5 115"
+1072 "camera_mp_gunsmith_preview_large_stock"
+}
+{
+80 "0 165.839 0"
+212 "script_origin"
+20186 "default"
+709 "-3063.5 -7704.5 112"
+1072 "camera_mp_gunsmith_preview_large_underbarrel"
+}
+{
+80 "2.99991 140.96 8.93635e-08"
+212 "script_origin"
+20186 "default"
+709 "-3066 -7738 116"
+1072 "camera_mp_gunsmith_preview_large_barrel"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+709 "-2944 -7682 105"
+1072 "camera_mp_gunsmith_preview_riot"
+}
+{
+80 "0 184 0"
+212 "script_origin"
+20186 "default"
+709 "-3075.5 -7680 111"
+1072 "camera_mp_gunsmith_preview_reargrip_alt1"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+709 "-3071 -7676 109"
+1072 "camera_mp_gunsmith_preview_magazine_alt1"
+}
+{
+80 "2.99991 164.96 -1.08957e-06"
+212 "script_origin"
+20186 "default"
+709 "-3050.5 -7713.5 116.5"
+1072 "camera_mp_gunsmith_preview_barrel_alt1"
+}
+{
+80 "0 129.644 0"
+212 "script_origin"
+20186 "default"
+709 "-3081 -7730 115"
+1072 "camera_mp_gunsmith_preview_muzzle_alt1"
+}
+{
+80 "2.99996 15.9999 -1.06575e-07"
+212 "script_origin"
+20186 "default"
+709 "-3122 -7686 116.5"
+1072 "camera_mp_gunsmith_preview_laser_alt1"
+}
+{
+80 "2.99996 15.9999 -1.06575e-07"
+212 "script_origin"
+20186 "default"
+709 "-3122 -7682.5 116.5"
+1072 "camera_mp_gunsmith_preview_laser_alt2"
+}
+{
+80 "2.99991 258.598 2.50053e-07"
+212 "script_origin"
+20186 "default"
+709 "-3089.5 -7662.5 117.5"
+1072 "camera_mp_gunsmith_preview_optic_alt1"
+}
+{
+80 "0 200 0"
+212 "script_origin"
+20186 "default"
+709 "-3069 -7668 115"
+1072 "camera_mp_gunsmith_preview_magazine_alt2"
+}
+{
+80 "0.999971 203 9.56471e-08"
+212 "script_origin"
+20186 "default"
+709 "-3057 -7662 115"
+1072 "camera_mp_gunsmith_preview_stock_alt1"
+}
+{
+80 "0 165.839 0"
+212 "script_origin"
+20186 "default"
+709 "-3062 -7715 112"
+1072 "camera_mp_gunsmith_preview_large_underbarrel_alt1"
+}
+{
+80 "2.99996 15.9999 -1.06575e-07"
+212 "script_origin"
+20186 "default"
+709 "-3122 -7701 116.5"
+1072 "camera_mp_gunsmith_preview_large_laser"
+}
+{
+80 "0 184 0"
+212 "script_origin"
+20186 "default"
+709 "-3072.5 -7669 113"
+1072 "camera_mp_gunsmith_preview_reargrip_alt2"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+709 "-3062 -7687 115"
+1072 "camera_mp_gunsmith_preview_large_magazine_alt1"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+709 "-3062 -7677 110"
+1072 "camera_mp_gunsmith_preview_large_magazine_alt2"
+}
+{
+80 "0 120.5 0"
+212 "script_origin"
+20186 "default"
+709 "-3085 -7750 115"
+1072 "camera_mp_gunsmith_preview_large_muzzle_alt1"
+}
+{
+80 "1.99998 135 5.33284e-08"
+212 "script_origin"
+20186 "default"
+709 "-3067 -7754 116"
+1072 "camera_mp_gunsmith_preview_large_barrel_alt1"
+}
+{
+80 "0.999971 228.483 -8.93999e-08"
+212 "script_origin"
+20186 "default"
+709 "-3062 -7633.5 115"
+1072 "camera_mp_gunsmith_preview_stock_alt2"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+709 "-3076 -7678 116.5"
+1072 "camera_mp_gunsmith_preview_small_magazine_alt1"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+709 "-3080 -7684.5 112.5"
+1072 "camera_mp_gunsmith_preview_watch"
+}
+{
+80 "0 245 0"
+212 "script_origin"
+20186 "default"
+709 "-3088 -7662.51 114"
+1072 "camera_mp_gunsmith_preview_charm"
+}
+{
+80 "0 245 0"
+212 "script_origin"
+20186 "default"
+709 "-3087.5 -7660.51 113.5"
+1072 "camera_mp_gunsmith_preview_large_charm"
+}
+{
+80 "0 245 0"
+212 "script_origin"
+20186 "default"
+709 "-3089 -7662.51 116.5"
+1072 "camera_mp_gunsmith_preview_small_charm"
+}
+{
+80 "0 245 0"
+212 "script_origin"
+20186 "default"
+709 "-3088 -7667.01 115.5"
+1072 "camera_mp_gunsmith_preview_charm_alt1"
+}
+{
+80 "0 245 0"
+212 "script_origin"
+20186 "default"
+709 "-3088 -7664.01 113.5"
+1072 "camera_mp_gunsmith_preview_large_charm_alt1"
+}
+{
+80 "0 245 0"
+212 "script_origin"
+20186 "default"
+709 "-3088 -7656.01 114.5"
+1072 "camera_mp_gunsmith_preview_charm_alt2"
+}
+{
+80 "5.00002 245 -2.08353e-06"
+212 "script_origin"
+20186 "default"
+709 "-3088 -7664.01 116.5"
+1072 "camera_mp_gunsmith_preview_large_charm_alt2"
+}
+{
+80 "0 245 0"
+212 "script_origin"
+20186 "default"
+709 "-3088 -7660.01 115"
+1072 "camera_mp_gunsmith_preview_charm_alt3"
+}
+{
+80 "30 190 -4.38325e-06"
+212 "script_origin"
+20186 "default"
+709 "-3068 -7670 128"
+1072 "camera_mp_gunsmith_preview_sticker"
+}
+{
+80 "30 190 -4.38325e-06"
+212 "script_origin"
+20186 "default"
+709 "-3068 -7676 128"
+1072 "camera_mp_gunsmith_preview_large_sticker"
+}
+{
+80 "20 190 1.99999"
+212 "script_origin"
+20186 "default"
+709 "-3075 -7671 123"
+1072 "camera_mp_gunsmith_preview_small_sticker"
+}
+{
+80 "30 190 -4.38325e-06"
+212 "script_origin"
+20186 "default"
+709 "-3068 -7665 125"
+1072 "camera_mp_gunsmith_preview_sticker_alt1"
+}
+{
+80 "30 190 1.99999"
+212 "script_origin"
+20186 "default"
+709 "-3064.5 -7672 128.5"
+1072 "camera_mp_gunsmith_preview_sticker_alt2"
+}
+{
+80 "30 190 1.99999"
+212 "script_origin"
+20186 "default"
+709 "-3064.5 -7668 128.5"
+1072 "camera_mp_gunsmith_preview_sticker_alt3"
+}
+{
+80 "30 190 1.99999"
+212 "script_origin"
+20186 "default"
+709 "-3064 -7672.5 130"
+1072 "camera_mp_gunsmith_preview_large_sticker_alt1"
+}
+{
+80 "30 190 -4.38325e-06"
+212 "script_origin"
+20186 "default"
+709 "-3068 -7680 128"
+1072 "camera_mp_gunsmith_preview_large_sticker_alt2"
+}
+{
+80 "27 197 2.99995"
+212 "script_origin"
+20186 "default"
+709 "-3063.5 -7668 127.5"
+1072 "camera_mp_gunsmith_preview_large_sticker_alt3"
+}
+{
+80 "30 190 5.00002"
+212 "script_origin"
+20186 "default"
+709 "-3068 -7663 128.5"
+1072 "camera_mp_gunsmith_preview_sticker_alt4"
+}
+{
+80 "0 245 0"
+212 "script_origin"
+20186 "default"
+709 "-3087 -7674.01 115"
+1072 "camera_mp_gunsmith_preview_charm_alt4"
+}
+{
+80 "25 165 -5.05149e-06"
+212 "script_origin"
+20186 "default"
+709 "-3046 -7714.5 139"
+1072 "camera_mp_gunsmith_preview_barrel_alt2"
+}
+{
+80 "0.999971 228.483 -8.93999e-08"
+212 "script_origin"
+20186 "default"
+709 "-3059 -7642.5 115"
+1072 "camera_mp_gunsmith_preview_large_stock_alt1"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*20"
+709 "-3136 -7718 116"
+1072 "weapRarity01"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*21"
+709 "-3136 -7718 116"
+1072 "weapRarity02"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*22"
+709 "-3136 -7718 116"
+1072 "weapRarity03"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*23"
+709 "-3136 -7718 116"
+1072 "weapRarity04"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*24"
+709 "-3136 -7718 116"
+1072 "weapRarity05"
+}
+{
+80 "2.99996 15.9999 -1.06575e-07"
+212 "script_origin"
+20186 "default"
+709 "-3129.75 -7697.25 116.5"
+1072 "camera_mp_gunsmith_preview_large_laser_alt1"
+}
+{
+80 "0 90 0"
+212 "script_struct"
+20186 "default"
+709 "-3188 -7729.5 115.5"
+1072 "weapRarityWatch"
+}
+{
+80 "0 90 0"
+212 "script_struct"
+20186 "default"
+709 "-3148 -7723 116"
+1072 "weapRarityMedium"
+}
+{
+80 "0 90 0"
+212 "script_struct"
+20186 "default"
+709 "-3136 -7732 116"
+1072 "weapRarityLarge"
+}
+{
+80 "0 90 0"
+212 "script_struct"
+20186 "default"
+709 "-3168 -7720 120"
+1072 "weapRaritySmall"
+}
+{
+80 "2.99991 258.598 2.50053e-07"
+212 "script_origin"
+20186 "default"
+709 "-3086.5 -7651.25 118.75"
+1072 "camera_mp_gunsmith_preview_large_optic_alt1"
+}
+{
+80 "0 201.841 0"
+212 "script_origin"
+20186 "default"
+709 "-3076 -7668 115"
+1072 "camera_mp_gunsmith_preview_small_reargrip_alt1"
+}
+{
+80 "2.99996 15.9999 -1.06575e-07"
+212 "script_origin"
+20186 "default"
+709 "-3121.5 -7679.5 118"
+1072 "camera_mp_gunsmith_preview_small_laser_alt1"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "test_gunsmith_blackbackground_character"
+709 "-3072 -10752 -2"
+925 "8"
+}
+{
+80 "0 290 0"
+212 "script_origin"
+20186 "default"
+709 "-3060.93 -10730.7 0"
+1072 "charroom_char_preview"
+}
+{
+80 "8.99999 90 3.9179e-07"
+212 "script_struct"
+20186 "default"
+709 "-3066.25 -10922 2"
+845 "28"
+1072 "dev_warp_loc"
+}
+{
+80 "5.99999 97 4.46218e-08"
+212 "script_origin"
+20186 "default"
+709 "-3066.25 -10922 62.5"
+1072 "char_preview"
+}
+{
+80 "0 79.9999 0"
+212 "script_origin"
+20186 "default"
+709 "-3076 -10833 58"
+1072 "char_preview_detail"
+}
+{
+212 "script_origin"
+20186 "default"
+709 "-3072 -10752 0"
+1072 "charroom_fx_preview"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+709 "0 -10752 0"
+1072 "charroom_char_tango_west"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+709 "0 -10752 0"
+1072 "charroom_char_tango_east"
+}
+{
+80 "8.99999 90 3.9179e-07"
+212 "script_struct"
+20186 "default"
+709 "12 -10948 4"
+845 "28"
+1072 "dev_warp_loc"
+}
+{
+80 "354.32 89.9995 -9.23884e-07"
+212 "script_origin"
+20186 "default"
+709 "8 -10949 42"
+1072 "char_tango"
+}
+{
+212 "script_origin"
+20186 "default"
+709 "0 -10752 0"
+1072 "charroom_fx_tango"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*25"
+709 "2850 -7913 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "clip8x8x256"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*26"
+709 "3138 -7913 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "player8x8x256"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*27"
+709 "2946 -7833 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "clip64x64x256"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*28"
+709 "2754 -7913 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "clip32x32x32"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*29"
+709 "3106 -7705 264"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "ladderMetal264"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*30"
+709 "2818 -7833 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "clip64x64x64"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*31"
+709 "2690 -7833 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "clip64x64x8"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*32"
+709 "2946 -7737 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "clip128x128x256"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*33"
+709 "2754 -7737 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "clip128x128x128"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*34"
+709 "2562 -7737 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "clip128x128x8"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*35"
+709 "2882 -7545 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "clip256x256x256"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*36"
+709 "3042 -7705 192"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "ladderWood192"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*37"
+709 "2626 -7545 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "clip256x256x8"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*38"
+709 "2754 -7161 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "clip512x512x8"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*39"
+709 "3042 -7769 192"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "ladderMetal192"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*40"
+709 "3426 -7817 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "mount128"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*41"
+709 "3554 -7817 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "mount64"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*42"
+709 "3634 -7817 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "mount32"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*43"
+709 "3202 -7817 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "mount256"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*44"
+709 "3106 -7769 264"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "ladderWood264"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*45"
+709 "3138 -7545 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "nosight256x256x8"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*46"
+709 "3202 -7737 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "nosight128x128x8"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*47"
+709 "3042 -7833 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "mountCorner128"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*48"
+709 "3202 -7849 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "mantle256"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*49"
+709 "3426 -7849 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "mantle128"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*50"
+709 "3554 -7849 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "mantle64"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*51"
+709 "3634 -7849 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "mantle32"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*52"
+709 "3394 -7801 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "stairsHalfFlight128"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*53"
+709 "3586 -7801 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "stairsFullFlight128"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*54"
+709 "2946 -7913 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "clip32x32x256"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*55"
+709 "3042 -7913 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "player32x32x256"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*56"
+709 "3394 -7545 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "player256x256x8"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*57"
+709 "3266 -7161 0"
+37683 "ScriptBrushModelDummyDefault"
+925 "1"
+1072 "player512x512x8"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "military_frontend_east_a_03"
+709 "3065 -10707 0"
+41154 "1"
+}
+{
+35292 "1"
+80 "0 345 0"
+212 "script_model"
+20186 "default"
+652 "military_frontend_west_set_b_02_wire1"
+709 "3117.25 -10514.3 114.75"
+41154 "1"
+925 "8"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "military_frontend_east_a_02"
+709 "3065 -10707 -0.5"
+41154 "1"
+925 "8"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "military_frontend_east_a_04"
+709 "3064.25 -10707 0"
+41154 "1"
+}
+{
+35292 "1"
+80 "10.0136 247.996 -1.78146e-06"
+212 "script_model"
+20186 "default"
+652 "military_frontend_west_set_b_02_wire2"
+709 "3161.5 -10665.5 91.75"
+41154 "1"
+925 "8"
+}
+{
+80 "0 0 0"
+212 "script_model"
+20186 "default"
+652 "military_frontend_east_a_01"
+709 "3065 -10707 0"
+41154 "1"
+925 "8"
+}
+{
+35292 "1"
+80 "0 21.9996 0"
+212 "script_model"
+20186 "default"
+652 "military_frontend_west_set_b_02_wire3"
+709 "3033 -10526.8 108.75"
+41154 "1"
+925 "8"
+}
+{
+80 "0 339.596 0"
+212 "script_model"
+20186 "default"
+652 "military_frontend_east_a_02_b"
+709 "3094 -10645 57.75"
+41154 "1"
+925 "8"
+}
+{
+80 "0 270 0"
+212 "script_origin"
+20186 "default"
+652 "mp_fullbody_execution_dog_malinois"
+709 "3083.07 -10730.7 0"
+1072 "charroom_char_east_a_dog"
+}
+{
+80 "0 290 0"
+212 "script_origin"
+20186 "default"
+652 "static_mp_eastern_syd_pose_a"
+709 "3083.07 -10730.7 0"
+1072 "charroom_char_east_a"
+}
+{
+80 "8.99999 90 3.9179e-07"
+212 "script_struct"
+20186 "default"
+709 "3077.75 -10922 2"
+845 "28"
+1072 "dev_warp_loc"
+}
+{
+80 "5.99999 97 4.46218e-08"
+212 "script_origin"
+20186 "default"
+709 "3077.75 -10922 62.5"
+1072 "char_east_a"
+}
+{
+80 "0 79.9999 0"
+212 "script_origin"
+20186 "default"
+709 "3068 -10833 58"
+1072 "char_east_a_detail"
+}
+{
+212 "script_origin"
+20186 "default"
+709 "3072 -10752 0"
+1072 "charroom_fx_east_a"
+}
+{
+212 "script_origin"
+20186 "default"
+709 "6144 -7680 0"
+1072 "charroom_fx_quartermaster"
+}
+{
+80 "0 90 0"
+212 "script_struct"
+20186 "default"
+709 "6144 -7976 0"
+845 "28"
+1072 "dev_warp_loc"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*58"
+709 "6151 -7382 0"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*59"
+709 "6151 -7344 90"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*60"
+709 "6151 -7382 0"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*61"
+709 "6151 -7382 0"
+}
+{
+80 "0.99997 89.9999 -1.35091e-07"
+212 "script_origin"
+20186 "default"
+709 "6144 -7828 42"
+1072 "char_quartermaster"
+}
+{
+80 "0 0 0"
+212 "script_origin"
+20186 "default"
+652 "carepackage_base"
+709 "6144 -7504 0"
+1072 "quartermaster_crate_1"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+652 "military_frontend_gunrange_01_paper_3"
+709 "6192 -7735.75 90.25"
+1072 "quartermaster_target_3"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+652 "military_frontend_gunrange_01_paper_2"
+709 "6144 -7735.75 90.25"
+1072 "quartermaster_target_2"
+}
+{
+80 "0 180 0"
+212 "script_origin"
+20186 "default"
+652 "military_frontend_gunrange_01_paper_1"
+709 "6096 -7735.75 90.25"
+1072 "quartermaster_target_1"
+}
+{
+80 "3.99997 90 -2.76443e-07"
+212 "script_origin"
+20186 "default"
+709 "6144 -7976.5 54"
+1072 "char_quartermaster_detail"
+}
+{
+80 "0 152 0"
+212 "script_struct"
+20186 "default"
+709 "68 -7720 8"
+845 "55"
+1072 "dev_warp_loc"
+}
+{
+212 "script_brushmodel"
+20186 "default"
+652 "*62"
+709 "-2 -7677 -17"
+}
+{
+35292 "1"
+80 "0 73.4639 0"
+212 "script_model"
+20186 "default"
+652 "military_gunsmith_a"
+34215 "0.85"
+709 "-2.99998 -7682 15.5"
+41154 "1"
+925 "8"
+}
+{
+80 "0 90 0"
+212 "script_origin"
+20186 "default"
+709 "2.28882e-05 -7678 48"
+1072 "gunbench_fx"
+}
+{
+80 "41 145 0"
+212 "script_origin"
+20186 "default"
+709 "19.3213 -7691.21 63.6841"
+1072 "camera_mp_gunsmith_alt_s"
+}
+{
+80 "0 251.062 88"
+212 "script_origin"
+20186 "default"
+652 "weapon_wm_pi_decho_brprop"
+709 "7.46541 -7687.79 47.25"
+1072 "weapon_loc_hq2"
+}
+{
+80 "40.459 150.859 -4.24094e-06"
+212 "script_origin"
+20186 "default"
+709 "44.3645 -7720.27 95.5989"
+1072 "camera_mp_gunsmith_alt_o_large"
+}
+{
+80 "18 173 -5.27661e-06"
+212 "script_origin"
+20186 "default"
+709 "24 -7672.5 59"
+1072 "camera_mp_gunsmith_alt_l"
+}
+{
+80 "27.0343 131.669 1.74725"
+212 "script_origin"
+20186 "default"
+709 "17.572 -7665.48 58.776"
+1072 "camera_mp_gunsmith_alt_z"
+}
+{
+80 "51.9999 151.315 -2.12347e-05"
+212 "script_origin"
+20186 "default"
+709 "18 -7665 63"
+1072 "camera_mp_gunsmith_alt_y"
+}
+{
+80 "11.9999 157.5 -1.71255e-06"
+212 "script_origin"
+20186 "default"
+709 "77.5 -7717.5 73"
+1072 "camera_mp_gunsmith_overview"
+}
+{
+80 "360 50.247 76.9975"
+212 "script_origin"
+20186 "default"
+652 "parts_wristwear_mp_watch_a_wm"
+709 "1.25002 -7674 50.5"
+41154 "1"
+1072 "weapon_loc_watch"
+}
+{
+80 "40.686 145.185 -1.46529e-05"
+212 "script_origin"
+20186 "default"
+709 "31.2539 -7710.27 80.4955"
+1072 "camera_mp_gunsmith_alt_o"
+}
+{
+80 "37.253 162.878 -8.26912e-06"
+212 "script_origin"
+20186 "default"
+709 "39.6111 -7692.5 93.5726"
+1072 "camera_mp_gunsmith_alt_p_large"
+}
+{
+80 "22 164 -1.91897e-06"
+212 "script_origin"
+20186 "default"
+709 "33.5 -7668 61"
+1072 "camera_mp_gunsmith_alt_perks"
+}
+{
+80 "38 167 -1.80825e-06"
+212 "script_origin"
+20186 "default"
+709 "23.5 -7659.5 58.5"
+1072 "camera_mp_gunsmith_alt_specialist"
+}
+{
+80 "22 156 -1.91897e-06"
+212 "script_origin"
+20186 "default"
+709 "8.50002 -7680 54.5"
+1072 "camera_mp_gunsmith_alt_watch"
+}
+{
+80 "53 178.5 -2.07065e-05"
+212 "script_origin"
+20186 "default"
+709 "36.5 -7679 103"
+1072 "camera_mp_gunsmith_armory"
+}
+{
+80 "6.91981 277.29 77.0516"
+212 "script_origin"
+20186 "default"
+652 "military_prop_ar_akilo47"
+709 "-7.49997 -7671 50.5"
+41154 "1"
+1072 "weapon_loc_hq1"
+}
+{
+80 "21 150.977 -4.28351e-06"
+212 "script_origin"
+20186 "default"
+709 "15 -7667 58.5"
+1072 "camera_mp_gunsmith_alt_t"
+}
+{
+80 "37.834 162.737 -3.14211e-06"
+212 "script_origin"
+20186 "default"
+709 "24.5454 -7685.5 80.6292"
+1072 "camera_mp_gunsmith_alt_p"
+}
+{
+80 "34 144 1.41562e-06"
+212 "script_origin"
+20186 "default"
+709 "58 -7733.5 107.25"
+1072 "camera_mp_gunsmith"
+}
+{
+80 "51.9999 162.999 -1.34556e-06"
+212 "script_origin"
+20186 "default"
+709 "20 -7669 63"
+1072 "camera_mp_gunsmith_alt_x"
+}
+{
+212 "node_pathnode"
+20186 "default"
+709 "-6900 -10544 32"
+}
+{
+212 "node_pathnode"
+20186 "default"
+709 "-6948 -10544 32"
+}
+{
+212 "node_pathnode"
+20186 "default"
+709 "-6916 -10496 32"
+}
+{
+80 "0 48 0"
+212 "mp_global_intermission"
+20186 "default"
+709 "-7236 -10848 480"
+}
+{
+80 "0 180 0"
+212 "script_struct"
+20186 "default"
+709 "-10929 -7633.72 -24"
+845 "splashes_01 seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 180 0"
+212 "script_struct"
+20186 "default"
+709 "-10929 -7893.31 -24"
+845 "splashes_01"
+1072 "fx_moving_org"
+}
+{
+80 "0 180 0"
+212 "script_struct"
+20186 "default"
+709 "-10929 -8190.89 -24"
+845 "splashes_01 seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 180 0"
+212 "script_struct"
+20186 "default"
+709 "-10929 -8482.73 -24"
+845 "splashes_01"
+1072 "fx_moving_org"
+}
+{
+80 "0 180 0"
+212 "script_struct"
+20186 "default"
+709 "-10929 -8750.55 -24"
+845 "splashes_01 seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 180 0"
+212 "script_struct"
+20186 "default"
+709 "-10929 -9005.98 -24"
+845 "splashes_01"
+1070 "fx_moving_org"
+1072 "fx_moving_org"
+}
+{
+80 "0 180 0"
+212 "script_struct"
+20186 "default"
+709 "-10929 -9298.36 -24"
+845 "splashes_01 seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 180 0"
+212 "script_struct"
+20186 "default"
+709 "-10929 -9563.15 -24"
+845 "splashes_01"
+1072 "fx_moving_org"
+}
+{
+80 "0 180 0"
+212 "script_struct"
+20186 "default"
+709 "-10929 -9854.99 -24"
+845 "splashes_01 seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 180 0"
+212 "script_struct"
+20186 "default"
+709 "-10929 -10122.8 -24"
+845 "splashes_01"
+1072 "fx_moving_org"
+}
+{
+80 "0 180 0"
+212 "script_struct"
+20186 "default"
+709 "-10929 -10388.4 -24"
+845 "splashes_01 seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 180 0"
+212 "script_struct"
+20186 "default"
+709 "-10929 -10664.9 -24"
+845 "splashes_01"
+1072 "fx_moving_org"
+}
+{
+80 "0 180 0"
+212 "script_struct"
+20186 "default"
+709 "-10929 -6459.08 -24"
+845 "splashes_01 seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 180 0"
+212 "script_struct"
+20186 "default"
+709 "-10929 -6179.54 -24"
+845 "splashes_01"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "-11244.5 -8713.18 0.299835"
+845 "water_drips_01"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "-11451.7 -8753.53 142.448"
+845 "lf_bulb_yellow"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "-11451.7 -8492.54 142.448"
+845 "lf_bulb_yellow"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "-11556.6 -8117.15 142.448"
+845 "lf_bulb_yellow"
+1072 "fx_moving_org"
+}
+{
+80 "0 90 0"
+212 "script_struct"
+20186 "default"
+709 "-11465.1 -9194.23 0.299835"
+845 "water_drips_02"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "-11451.7 -10109.7 142.448"
+845 "lf_bulb_yellow"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "-11451.7 -9848.66 142.448"
+845 "lf_bulb_yellow"
+1072 "fx_moving_org"
+}
+{
+80 "0 90 0"
+212 "script_struct"
+20186 "default"
+709 "-11378.7 -10118.6 0.299835"
+845 "water_drips_02"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "-11451.7 -9848.42 443.235"
+845 "lf_bulb_yellow"
+1072 "fx_moving_org"
+}
+{
+80 "0 90 0"
+212 "script_struct"
+20186 "default"
+709 "-11378.7 -9743.63 0.299835"
+845 "water_drips_02"
+1072 "fx_moving_org"
+}
+{
+80 "0 90 0"
+212 "script_struct"
+20186 "default"
+709 "-11443.2 -7247.39 0.299835"
+845 "water_drips_02"
+1072 "fx_moving_org"
+}
+{
+80 "0 90 0"
+212 "script_struct"
+20186 "default"
+709 "-11443.2 -6917.04 0.299835"
+845 "water_drips_02"
+1072 "fx_moving_org"
+}
+{
+80 "0 90 0"
+212 "script_struct"
+20186 "default"
+709 "-11465.6 -9447.18 0.299835"
+845 "water_drips_02"
+1072 "fx_moving_org"
+}
+{
+80 "0 270 0"
+212 "script_struct"
+20186 "default"
+709 "-11086.6 -8714.33 208.147"
+845 "zombie_sils_01 seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "-11491.8 -10215.1 142.539"
+845 "lf_bulb_yellow"
+1072 "fx_moving_org"
+}
+{
+80 "0 270 0"
+212 "script_struct"
+20186 "default"
+709 "-11377.3 -8767.49 208.147"
+845 "zombie_sils_01 seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 270 0"
+212 "script_struct"
+20186 "default"
+709 "-11299.2 -8773.21 208.147"
+845 "zombie_sils_01 seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "-11307.9 -8685.95 156.002"
+845 "lf_bulb_white"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "-11051.5 -8685.95 156.002"
+845 "lf_bulb_white"
+1072 "fx_moving_org"
+}
+{
+80 "0 270 0"
+212 "script_struct"
+20186 "default"
+709 "-11399.3 -8862.63 208.147"
+845 "zombie_sils_01 seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 270 0"
+212 "script_struct"
+20186 "default"
+709 "-11428.2 -9051.17 271.275"
+845 "zombie_sils_01 seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 270 0"
+212 "script_struct"
+20186 "default"
+709 "-11409.1 -10247.8 271.275"
+845 "zombie_sils_01 seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 270 0"
+212 "script_struct"
+20186 "default"
+709 "-11221.8 -8646.07 208.147"
+845 "zombie_sils_01 seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "-11426 -9528.29 0.299835"
+845 "toxic_fog_01 seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "-11413.5 -10257.1 0.299866"
+845 "toxic_fog_01 seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "-11468.7 -10331.8 0.299835"
+845 "toxic_fog_01 seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "-11475.9 -10573.2 0.299835"
+845 "toxic_fog_01 seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "-11466.7 -8264.51 0.29985"
+845 "toxic_fog_01 seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "-11482.3 -8089.52 0.29985"
+845 "toxic_fog_01 seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "-11475.6 -7401.58 0.299911"
+845 "toxic_fog_01 seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 180 0"
+212 "script_struct"
+20186 "default"
+709 "-10948.7 -7318.29 -83.1781"
+845 "splashes_01"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "-11493.4 -6500.72 0.299911"
+845 "toxic_fog_01 seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 0 0"
+212 "script_struct"
+20186 "default"
+709 "-11448.3 -6375.28 0.29985"
+845 "toxic_fog_01 seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 180 0"
+212 "script_struct"
+20186 "default"
+709 "-10948.7 -7036.1 -83.1781"
+845 "splashes_01 seasonal"
+1072 "fx_moving_org"
+}
+{
+80 "0 180 0"
+212 "script_struct"
+20186 "default"
+709 "-10948.7 -6766.05 -83.1781"
+845 "splashes_01"
+1072 "fx_moving_org"
+}

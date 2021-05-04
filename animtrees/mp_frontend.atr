@@ -1,0 +1,22 @@
+
+// machinery_wind_turbine_01_small_frontend
+tag_rotate_z
+
+fe_gunsmith_bullets_gundrop_01
+fe_gunsmith_bullets_gundrop_02
+fe_gunsmith_bullets_gundrop_03
+fe_gunsmith_bullets_gundrop_start
+fe_gunsmith_bullets_pregundrop_01
+fe_gunsmith_bullets_pregundrop_02
+fe_gunsmith_bullets_pregundrop_03
+fe_gunsmith_bullets_pregundrop_start
+
+
+//frontend8 lifeboats
+mp_frontend8_veh_boat_wood_01_tag_origin_loop
+mp_frontend8_veh_boat_wood_01_ropes_loop
+mp_frontend8_veh_boat_wood_01_loop
+mp_frontend8_wires_hanging_01
+
+//frontend9 icbm truck
+chr_menu_mp_squad_icbmtruck

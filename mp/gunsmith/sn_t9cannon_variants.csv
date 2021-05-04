@@ -1,0 +1,3 @@
+0,iw8_sn_t9cannon_variant_0,iw8_sn_t9cannon,,,,,,,,,,,,,,,WEAPON_TANGO/SN_T9CANNON,ui_loot_weapon_sn_t9cannon,
+1,iw8_sn_t9cannon_variant_1,iw8_sn_t9cannon,,rec|1 front|1 back|1 mag|1 scope|1,linearbrake|0,barcust3|1,laserrange|1,gripangpro|1,,,,stockno|1,,,,,WEAPON_VICTOR/SN_T9CANNON_V2,ui_loot_weapon_sn_t9cannon_v1,
+2,iw8_sn_t9cannon_variant_2,iw8_sn_t9cannon,,rec|2 front|2 back|2 mag|2 scope|2,linearbrake|1,barcust3|2,,pistolgrip05|1,,smags|1,,stockh|1,,,,,WEAPON_XRAY/SN_T9CANNON_V3,ui_loot_weapon_sn_t9cannon_v2,
